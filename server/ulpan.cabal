@@ -1,0 +1,48 @@
+name:               ulpan
+version:            0.0.0
+cabal-version:      >= 1.8
+build-type:         Simple
+extra-source-files: routes
+
+executable          ulpan
+  main-is:          Main.hs
+  other-modules:    Application
+                    Foundation
+                    Model.VocabApi
+                    Handler.Home
+                    Handler.Resources
+
+  ghc-options:      -Wall -fwarn-tabs -O2
+
+  extensions:      NoImplicitPrelude
+
+  build-depends:  base
+                , basic-prelude
+                , ulpan-interface
+                , yesod
+                , yesod-core
+                , yesod-form
+                , yesod-static
+                , yesod-websockets
+                , classy-prelude
+                , conduit
+                , conduit-combinators
+                , blaze-html
+                , shakespeare
+                , containers
+                , text
+                , bytestring
+                , yaml
+                , aeson
+                , unordered-containers
+                , vector
+                , lens
+                , random
+                , file-embed
+                , monad-par
+                , stm
+                , template-haskell
+                , stringsearch
+                , directory
+
+  ghc-options:    -threaded -O2 -rtsopts -with-rtsopts=-N

@@ -1,0 +1,78 @@
+// https://jakearchibald.com/2014/offline-cookbook/
+
+var cacheName         = "#{rawJS $ cacheName}";
+var filesToCacheSync  = #{rawJS $ show filesToCacheSync};
+var filesToCacheAsync = #{rawJS $show filesToCacheAsync};
+
+self.addEventListener('install', function(e) {
+  console.log('[ServiceWorker] Install');
+  e.waitUntil(
+    caches.open(cacheName).then(function(cache) {
+      console.log('[ServiceWorker] Caching app shell');
+
+      cache.addAll(filesToCacheAsync).then(function() {
+        console.log('[ServiceWorker] Cached: ' + JSON.stringify(filesToCacheAsync));
+      }).catch(error => console.error('Could not cache ' + JSON.stringify(filesToCacheAsync) + ':  ${error}'));
+
+      return cache.addAll(filesToCacheSync).then(function() {
+        console.log('[ServiceWorker] Cached: ' + JSON.stringify(filesToCacheSync));
+        self.skipWaiting();
+      }).catch(error => console.error('Could not cache ' + JSON.stringify(filesToCacheSync) + ':  ${error}'));
+    })
+  );
+});
+
+// service worker has been installed, and previous version is not being used anymore
+// here we do stuff we couldn't do while the previous version was still active - like clean up previous resources.
+self.addEventListener('activate', function(e) {
+  console.log('[ServiceWorker] Activate');
+  e.waitUntil(
+    caches.keys().then(function(keyList) {
+      return Promise.all(
+        keyList.map(function(key) {
+          if (key !== cacheName) {
+            console.log('[ServiceWorker] Removing old cache', key);
+            return caches.delete(key);
+          }
+        })
+      );
+    })
+  );
+  return self.clients.claim();
+});
+
+
+self.addEventListener('fetch', function(e) {
+  // console.log('[ServiceWorker] Fetch event fired.', e.request.url);
+  // console.log('[ServiceWorker] Fetching url=' + reqString(e.request));
+
+  // cache key is not `e.request`, since cache.addAll took url only - which defaults the request.mode etc.
+  // we need to preserve the defaults in the cache lookup
+  var cacheKey = new Request(e.request.url);
+  e.respondWith(
+    caches.match(cacheKey).then(function(response) {
+      if (response) {
+        // console.log('[ServiceWorker] Retrieving ' + e.request.url + ' from cache...');
+        // console.log('[ServiceWorker] cache HIT: url=' + reqString(e.request));
+        return response;
+      }
+
+      console.log('[ServiceWorker] cache MISS: url=' + reqString(e.request));
+      return fetch(e.request);
+    })
+  );
+});
+
+
+function reqString (request) {
+  return 'url=' + request.url +
+         ', method=' + request.method +
+         ', headers=' + request.headers +
+         ', body=' + request.body +
+         ', mode=' + request.mode +
+         ', credentials=' + request.credentials +
+         ', cache=' + request.cache +
+         ', redirect=' + request.redirect +
+         ', referrer=' + request.referrer +
+         ', integrity=' + request.integrity;
+}

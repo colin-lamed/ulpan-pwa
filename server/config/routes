@@ -1,0 +1,11 @@
+/                                                 Home2R                GET
+/index.html                                       HomeR                 GET
+
+/languagefile/#Text                               LanguageFileR         GET
+
+/languagefilesNames                               LanguagesAvailableR   GET
+
+/service-worker.js                                ServiceWorkerR        GET
+/manifest.json                                    ManifestR             GET
+
+!/                                                StaticR               Static getStatic

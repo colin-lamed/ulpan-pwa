@@ -1,0 +1,19 @@
+name:              ulpan-interface
+version:           0.0.0
+cabal-version:     >= 1.8
+build-type:        Simple
+
+library
+  hs-source-dirs:  src
+  exposed-modules: Model.Vocab
+                   Model.VocabSerialisation
+
+  ghc-options:     -Wall -fwarn-tabs -O0
+
+  extensions:      NoImplicitPrelude
+
+  build-depends:   base
+                 , basic-prelude
+                 , aeson
+                 , containers
+                 , text

@@ -1,0 +1,43 @@
+$doctype 5
+<html lang="en">
+  <head>
+    <link rel="manifest" href=@{ManifestR}>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Add to home screen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content=#{title}>
+    <link rel="apple-touch-icon" href="@{StaticR img_icons_favicon_icons_1_Desktop_Icons_icon_128_png}">
+    <!-- Tile for Windows -->
+    <meta name="msapplication-TileImage" content=@{StaticR img_icons_favicon_icons_1_Desktop_Icons_icon_128_png}>
+    <meta name="msapplication-TileColor" content="#E09D5A">
+    <link rel="shortcut icon" type="image/x-icon" href=@{StaticR img_icons_favicon_jpg}>
+    <title>#{title}
+    <meta name="description" content="Ulpan drill.">
+    ^{headTags}
+  <body>
+    <div class="app app__layout">
+      <header>
+        <span class="header__icon">
+          <svg class="menu__icon no--select" width="24px" height="24px" viewBox="0 0 48 48" fill="#fff">
+            <path d="M6 36h36v-4H6v4zm0-10h36v-4H6v4zm0-14v4h36v-4H6z">
+
+        <span class="header__title no--select">#{title}
+
+      <div class="menu">
+        <div class="menu__header">
+        <ul class="menu__list">
+          <li>
+            <a target="_blank" rel="noopener" id="select-language">Select Language
+          <li>
+            <a target="_blank" rel="noopener" id="change-parameters">Change Parameters
+      <div class="menu__overlay">
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+          <div class="col-md-8">
+            <div style="padding:0 20px">
+              ^{bodyTags}
+          <div class="col-md-2">

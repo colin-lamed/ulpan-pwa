@@ -1,0 +1,4143 @@
+meta:
+  name: "Colloquial Hebrew"
+  language1: english
+  language2: hebrew
+  note: note
+  language2_gravity: right
+  language2_textsize: large
+
+unit 1:
+  - english: but
+    hebrew: אבל
+    note: aval
+  - english: luck
+    hebrew: מזל
+    note: mazal
+  - english: what?
+    hebrew: מה?
+    note: mah
+  - english: "yes"
+    hebrew: כן
+    note: ken
+  - english: who?
+    hebrew: מי?
+    note: mi
+  - english: she
+    hebrew: היא
+    note: hi
+  - english: no/not
+    hebrew: לא
+    note: lo
+  - english: here
+    hebrew: פה
+    note: poh
+  - english: good
+    hebrew: טוֹב
+    note: tov
+  - english: he
+    hebrew: הוּא
+    note: hu
+  - english: nothing
+    hebrew: כלוּם
+    note: klum
+
+unit 2 - list 1:
+  - english: driver
+    hebrew: נהג
+    note: nehag
+  - english: taxi
+    hebrew: מוֹנית
+    note: monit
+  - english: excuse me / sorry
+    hebrew: סליחה
+    note: slikhah
+  - english: you
+    hebrew: אתה
+    note: atah
+  - english: Mr
+    hebrew: מר
+    note: mar
+  - english: welcome
+    hebrew: ברוּך הבא
+    note: barukh ha’ba
+  - english: to
+    hebrew: ל...
+    note: l’
+  - english: (to) Israel
+    hebrew: לישׂראל
+    note: (l’)israel
+  - english: now
+    hebrew: עכשׁיו
+    note: akhshav
+  - english: (to) hotel (Sheraton)
+    hebrew: (ל)מלוֹן (שׁרתוֹן)
+    note: (l’)malon (sheraton)
+  - english: in
+    hebrew: בּ...
+    note: b’
+  - english: please
+    hebrew: בבקשׁה
+    note: b’vakashah
+  - english: from
+    hebrew: מ...
+    note: mi’
+  - english: (from) London
+    hebrew: (מ)לוֹנדוֹן
+    note: (mi’)london
+  - english: I (am)
+    hebrew: אני
+    note: ani
+  - english: a journalist
+    hebrew: עיתוֹנאי
+    note: itonáy
+  - english: Good morning
+    hebrew: בוֹקר טוֹב
+    note: bóker tov
+  - english: Good evening
+    hebrew: ערב טוֹב
+    note: érev tov
+  - english: Good night
+    hebrew: לילה טוֹב
+    note: láylah tov
+  - english: Good bye
+    hebrew: להתראוֹת
+    note: l'hitra-ot
+
+unit 2 - list 2:
+  - english: evening
+    hebrew: ערב
+    note: érev (m.)
+  - english: good
+    hebrew: טוֹב
+    note: tov
+  - english: |
+      pleased to meet you
+      (lit: very pleasant)
+    hebrew: נעים מאד
+    note: na-im me-od
+  - english: and
+    hebrew: ו...
+    note: v’
+  - english: this
+    hebrew: זאת
+    note: zot
+  - english: the
+    hebrew: ה...
+    note: ha’
+  - english: friend (girlfriend)
+    hebrew: חברה
+    note: khaverah (f.)
+  - english: my
+    hebrew: שׁלי
+    note: sheli
+  - english: |
+      where from
+      (lit. ‘from where’)
+    hebrew: מאין
+    note: me’áyin
+  - english: where?
+    hebrew: איפה?
+    note: eyfoh
+  - english: lives
+    hebrew: גר (גרים)
+    note: |
+     gar (m.)
+     (garim, m. pl.)
+  - english: tourists (tourist)
+    hebrew: תיירים (תייר)
+    note: |
+      tayarim (m. pl.)
+      (tayar, m.)
+  - english: but, however
+    hebrew: אבל
+    note: aval
+  - english: we
+    hebrew: אנחנוּ
+    note: anákhnu
+  - english: here
+    hebrew: פה
+    note: poh
+  - english: (in the) land (of Israel)
+    hebrew: (ב)ארץ
+    note: (ba')eretz
+
+unit 2 - personal pronouns:
+  - english: I
+    hebrew: אני
+    note: ani (m./f.)
+  - english: you
+    hebrew: אתה
+    note: atah (m.)
+  - english: you
+    hebrew: את
+    note: at (f.)
+  - english: he
+    hebrew: הוּא
+    note: hu
+  - english: she
+    hebrew: היא
+    note: hi
+  - english: we
+    hebrew: אנחנוּ
+    note: anákhnu (m./f.)
+  - english: you
+    hebrew: אתם
+    note: atem (m. pl.)
+  - english: you
+    hebrew: אתן
+    note: aten (f. pl.)
+  - english: they
+    hebrew: הם
+    note: hem (m. pl.)
+  - english: they
+    hebrew: הן
+    note: hen (f. pl.)
+
+unit 2 - list 3:
+  - english: this
+    hebrew: זה
+    note: zeh (m.)
+  - english: relative, relation
+    hebrew: קרוֹב(ה)
+    note: karov (krovah, f.)
+  - english: what?
+    hebrew: מה?
+    note: mah
+  - english: does
+    hebrew: עוֹשׂה
+    note: oseh
+  - english: exactly
+    hebrew: בדיוּק
+    note: b’diyuk
+  - english: visits
+    hebrew: מבקר
+    note: mevaker
+  - english: family
+    hebrew: משׁפחה
+    note: mishpakhah (f.)
+  - english: (and) friends
+    hebrew: (ו)חברים
+    note: (v’)khaverim (m. pl.)
+  - english: (for) business
+    hebrew: (ל)עסקים
+    note: (l’)asakim (m. pl.)
+
+unit 2 - list 4:
+  - english: telephone
+    hebrew: טלפוֹן
+    note: télefon (m.)
+  - english: street
+    hebrew: רחוֹב
+    note: rekhov (m.)
+  - english: house
+    hebrew: בית
+    note: báyit (m.)
+  - english: train
+    hebrew: רכבת
+    note: rakévet (f.)
+  - english: office
+    hebrew: משׂרד
+    note: misrad (m.)
+  - english: shop
+    hebrew: חנוּת
+    note: khanut (f.)
+  - english: room
+    hebrew: חדר
+    note: khéder (m.)
+  - english: bus
+    hebrew: אוֹטוֹבּוּס
+    note: ótobus (m.)
+  - english: town
+    hebrew: עיר
+    note: ir (f.)
+
+unit 3 - list 1:
+  - english: (he) speaks
+    hebrew: מדבר
+    note: medaber
+  - english: how are you?
+    hebrew: מה שׁלוֹמך?
+    note: mah shlomkha (shlomekh)
+  - english: fine, thanks
+    hebrew: טוֹב, תוֹדה
+    note: tov, todah
+  - english: already
+    hebrew: כבר
+    note: kvar
+  - english: when
+    hebrew: מתי
+    note: matay
+  - english: it is possible
+    hebrew: אפשׁר
+    note: efshar
+  - english: to meet
+    hebrew: להיפגשׁ
+    note: l’hipagesh
+  - english: (at) seven
+    hebrew: (ב)שׁבע
+    note: b’shéva
+  - english: all right
+    hebrew: בסדר
+    note: b’séder
+  - english: excellent
+    hebrew: מצוּיין
+    note: metsuyan
+  - english: so, then
+    hebrew: אז
+    note: az
+  - english: great!
+    hebrew: יוֹפי!
+    note: yófi!
+  - english: all
+    hebrew: כל
+    note: kol
+  - english: I'm not sure
+    hebrew: לא בטוּח
+    note: lo batú-akh
+  - english: You (m) need
+    hebrew: אתה צריך
+    note: atah tsarik
+  - english: You (f) need
+    hebrew: את צריכה
+    note: at tsrikah
+  - english: letter
+    hebrew: מכתב
+    note: mikhtav
+
+unit 3 - time words:
+  - english: this morning
+    hebrew: הבּוֹקר 
+    note: ha’bóker
+  - english: tonight 
+    hebrew: הלילה
+    note: ha’láylah
+  - english: today 
+    hebrew: היוֹם
+    note: ha’yom
+  - english: this week
+    hebrew: השׁבוּע
+    note: ha’shavú-a
+  - english: this month
+    hebrew: החוֹדשׁ
+    note: ha’khódesh
+  - english: this year
+    hebrew: השׁנה
+    note: ha’shanah
+ 
+unit 3 - infinitive:
+  - english: possible
+    hebrew: אפשׁר
+    note: efshar
+  - english: not possible
+    hebrew: אי אפשׁר
+    note: i efshar
+  - english: to see
+    hebrew: לראוֹת
+    note: li’rot
+  - english: to write
+    hebrew: לכתוֹב
+    note: li’khtov
+  - english: to think
+    hebrew: לחשׁוֹב
+    note: la’khshov
+  - english: to visit
+    hebrew: לבקר
+    note: le’vaker
+  - english: to go, to walk
+    hebrew: ללכת
+    note: la’lékhet
+  - english: to want
+    hebrew: לרצוֹת
+    note: li’rtzot
+  - english: to make
+    hebrew: לעשׂוֹת
+    note: la’asot
+
+unit 3 - list 2:
+  - english: movie
+    hebrew: סרט
+    note: séret (m.)
+  - english: fax
+    hebrew: פקס
+    note: faks (m.)
+  - english: in silence
+    hebrew: בשׁקט
+    note: b’shéket
+  - english: again
+    hebrew: שׁוּב
+    note: shuv
+  - english: address
+    hebrew: כתוֹבת
+    note: któvet (f.)
+  - english: write(s)
+    hebrew: כוֹתב
+    note: kotev
+  - english: is right
+    hebrew: צוֹדק
+    note: tsodek
+  - english: without
+    hebrew: בלי
+    note: bli
+  - english: she thinks
+    hebrew: חוֹשׁבת
+    note: khoshévet
+  - english: that, who, which
+    hebrew: שׁ...
+    note: she’
+  - english: (to be) need(ing)
+    hebrew: צריך\צריכה
+    note: tsarikh (m.)/tsrikhah (f.)
+  - english: many thanks
+    hebrew: תוֹדה רבה
+    note: todah rabah
+  - english: number
+    hebrew: מספר
+    note: mispar (m.)
+  - english: twenty (20)
+    hebrew: עשׂרים
+    note: esrim
+  - english: three (3)
+    hebrew: שׂלוֹשׂ
+    note: shalosh
+  - english: far
+    hebrew: רחוֹק
+    note: rakhok
+  - english: stop (bus stop)
+    hebrew: תחנה
+    note: takhanah
+  - english: very
+    hebrew: מאד
+    note: me-od
+  - english: near
+    hebrew: קרוֹב
+    note: karov
+
+unit 3 - list 3:
+  - english: to walk
+    hebrew: ללכת ברגל
+    note: la’lékhet ba'régel
+  - english: sir
+    hebrew: אדוֹני
+    note: adoni
+  - english: to go, to travel
+    hebrew: לנסוֹע
+    note: li’nsó-a
+  - english: (he) sees
+    hebrew: רוֹאה
+    note: ro-eh
+  - english: there, over there
+    hebrew: שׁם
+    note: sham
+  - english: opposite
+    hebrew: מוּל
+    note: mul
+  - english: to buy
+    hebrew: לקנוֹת
+    note: li’knot
+  - english: ticket
+    hebrew: כרטיס
+    note: kartis (m.)
+  - english: computer
+    hebrew: מחשב
+    note: makhshev (m.)
+  - english: afterwards
+    hebrew: אחר כך
+    note: akhar kakh
+
+unit 3 - numbers:
+  - english: "0"
+    hebrew: אפס
+    note: éfes
+  - english: 1 (f.)
+    hebrew: אחת
+    note: akhat
+  - english: 1 (m.)
+    hebrew: אחד
+    note: ekhad
+  - english: 2 (f.)
+    hebrew: שׁתיים
+    note: shtáyim
+  - english: 2 (m.)
+    hebrew: שׁניים
+    note: shnáyim
+  - english: 3 (f.)
+    hebrew: שׁלוֹשׁ
+    note: shalosh
+  - english: 3 (m.)
+    hebrew: שׁלוֹשׂה
+    note: shloshah
+  - english: 4 (f.)
+    hebrew: ארבּע
+    note: árba
+  - english: 4 (m.)
+    hebrew: ארבעה
+    note: arba-ah
+  - english: 5 (f.)
+    hebrew: חמשׁ
+    note: khamesh
+  - english: 5 (m.)
+    hebrew: חמישׁה
+    note: khamishah
+  - english: 6 (f.)
+    hebrew: שׁשׁ
+    note: shesh
+  - english: 6 (m.)
+    hebrew: שׁישׁה
+    note: shishah
+  - english: 7 (f.)
+    hebrew: שׁבע
+    note: shéva
+  - english: 7 (m.)
+    hebrew: שׁבעה
+    note: shiv-ah
+  - english: 8 (f.)
+    hebrew: שׁמוֹנה
+    note: shmóneh
+  - english: 8 (m.)
+    hebrew: שׁמוֹנה
+    note: shmonah
+  - english: 9 (f.)
+    hebrew: תשׁע
+    note: tésha
+  - english: 9 (m.)
+    hebrew: תשׁעה
+    note: tish-ah
+  - english: 10 (m.)
+    hebrew: עשׂר
+    note: éser
+  - english: 10 (f.)
+    hebrew: עשׂרה
+    note: asarah
+
+unit 4 - list 1:
+  - english: restaurant
+    hebrew: מסעדה
+    note: mis-adah (f.)
+  - english: waiter
+    hebrew: מלצר/מלצרית
+    note: meltsar (-it, f.)
+  - english: table
+    hebrew: שׁוּלחן
+    note: shulkhan (m.)
+  - english: next to, near
+    hebrew: על יד
+    note: al yad
+  - english: window
+    hebrew: חלון
+    note: khalon (m.)
+  - english: drink
+    hebrew: שׁוֹתים (שׁ-ת-ה)
+    note: shotim (G1)
+  - english: wine
+    hebrew: יין
+    note: yáyin (m.)
+  - english: water
+    hebrew: מים
+    note: máyim (m. pl.)
+  - english: mineral water
+    hebrew: (מים) מינרליים
+    note: máyim minerálim
+  - english: here is
+    hebrew: הנה
+    note: hineh
+  - english: menu
+    hebrew: תפריט
+    note: tafrit (m.)
+  - english: there is
+    hebrew: ישׁ
+    note: yesh
+  - english: aubergines
+    hebrew: חצילים
+    note: khatsilim (m. pl.)
+  - english: likes, loves
+    hebrew: אוֹהב(ת) (א-ה-ב)
+    note: ohev(-et)
+  - english: quiche
+    hebrew: פשׁטידה
+    note: pashtidah (f.)
+  - english: because
+    hebrew: כי
+    note: ki
+  - english: eats
+    hebrew: אוֹכל(ת) (א-כ-ל)
+    note: okhél(-et)
+  - english: meat
+    hebrew: בשׂר
+    note: basar (m.)
+  - english: fish
+    hebrew: דג
+    note: dag (m.)
+  - english: vegetarian
+    hebrew: צמחוני(ת)
+    note: tsimkhoni(-t, f.)
+     
+unit 4 - list 2:
+  - english: egg, eggs
+    hebrew: ביצה, ביצים
+    note: betysah, beytsim (f.pl.)
+  - english: vegetables
+    hebrew: ירק, ירקוֹת
+    note: yérek, yerakot
+  - english: lettuce
+    hebrew: חסה
+    note: khásah
+  - english: onion
+    hebrew: בצל
+    note: batsal
+  - english: tomato
+    hebrew: עגבנייה
+    note: agvanyah
+  - english: carrot
+    hebrew: גזר
+    note: gézer
+  - english: lemon
+    hebrew: לימוֹן
+    note: limon
+  - english: cucumber
+    hebrew: מלפפוֹן
+    note: melafefon
+  - english: pepper
+    hebrew: פלפל
+    note: pilpel
+  - english: mushroom
+    hebrew: פטריה
+    note: pitriyah
+  - english: fruit
+    hebrew: פרי, פירוֹת
+    note: pri, peyrot
+  - english: apple
+    hebrew: תפוּח
+    note: tapúakh
+  - english: orange
+    hebrew: תפוּז
+    note: tapuz
+  - english: grape
+    hebrew: ענב
+    note: enav
+  - english: pear
+    hebrew: אגס
+    note: agas
+  - english: banana
+    hebrew: בננה
+    note: banánah
+  - english: kilogram
+    hebrew: קילוֹגרם
+    note: kilogram
+
+unit 4 - list 3:
+  - english: ready
+    hebrew: מוכנים
+    note: mukhanim (m.pl.)
+  - english: to order
+    hebrew: להזמין
+    note: l’hazmin
+  - english: (carrot) soup
+    hebrew: מרק (גזר)
+    note: marak (m.)(gézer)
+  - english: first course
+    hebrew: מנה ראשונה
+    note: manah rishonah (f.)
+  - english: sorry
+    hebrew: מצטער
+    note: mitsta-er
+  - english: there is no more
+    hebrew: אין יותר
+    note: eyn yoter
+  - english: Greek
+    hebrew: יווני(ת)
+    note: yevani(-t, f.)
+  - english: what a shame!
+    hebrew: חבל!
+    note: khaval!
+  - english: kosher
+    hebrew: כשׁר(ה)
+    note: kasher(ksherah, f.)
+  - english: perhaps
+    hebrew: אוּלי
+    note: ulay
+  - english: tuna
+    hebrew: טונה
+    note: túna (f.)
+  - english: fresh
+    hebrew: טרי(טרייה)
+    note: tari(triyah, f.)
+  - english: trout
+    hebrew: פורל
+    note: forel
+  - english: mushroom
+    hebrew: פטריה
+    note: pitriyah (f.)
+  - english: really (lit. ‘in truth’)
+    hebrew: באמת
+    note: b’emet
+  - english: for
+    hebrew: בשביל
+    note: bishvil
+  - english: as
+    hebrew: כ...
+    note: k’...
+  - english: main course
+    hebrew: מנה עיקרית
+    note: manah ikarit (f.)
+  - english: chicken
+    hebrew: עוף
+    note: of (m.)
+  - english: what can I do? (lit. ‘what to do’)
+    hebrew: מה לעשות
+    note: mah la’asot
+  - english: never mind
+    hebrew: און דבר
+    note: eyn davar
+  - english: less
+    hebrew: פחות
+    note: pakhot
+  - english: popular
+    hebrew: פופולרי(ת)
+    note: polpulári(-t, f.)
+  - english: films
+    hebrew: סרטים
+    note: sratim (f.pl.)
+
+unit 4 - adjectives:
+  - english: new
+    hebrew: חדשׁ, חדשׁה, חדשׁים, חדשׁוֹת
+    note: khadash, khadashah, khadashim, khadashot
+  - english: old
+    hebrew: ישׁן, ישׁנה, ישׁנים, ישׁנוֹת
+    note: yashan, yeshanah, yeshanim, yeshanot
+  - english: big
+    hebrew: גדוֹל, גדוֹלה, גדוֹלים, גדוֹלוֹת
+    note: gadol, gdolah, gdolim, gdolot
+  - english: small
+    hebrew: קטן, קטנה, קטנים, קטנוֹת
+    note: katan, ktanah, ktanim, ktanot
+  - english: hot
+    hebrew: חם, חמה, חמים, חמוֹת
+    note: kham, khamah, khamim, khamot
+  - english: cold
+    hebrew: קר, קרה, קרים, קרוֹת
+    note: kar, karah, karim, karot
+  - english: soft
+    hebrew: רך, רכה, רכים, רכוֹת 
+    note: rakh, rakah, rakim, rakot
+  - english: hard
+    hebrew: קשׁה, קשׁה, קשׁים, קשׁוֹת 
+    note: kasheh, kashah, kashim, kashot
+  - english: sweet
+    hebrew: מתוֹק, מתוּקה, מתוּקים, מתוּקוֹת
+    note: matok, metukah, metukim, metukot
+  - english: bitter
+    hebrew: מר, מרה, מרים, מרוֹת
+    note: marh, marah, marim, marot
+  - english: strong
+    hebrew: חזק, חזקה, חזקים, חזקוֹת
+    note: khazak, khazakah, khazakim, khazakot
+  - english: nice/pretty
+    hebrew: יפה, יפה, יפים, יפוֹת
+    note: yafeh, yafah, yafim, yafot
+  - english: tasty
+    hebrew: טעים, טעימה, טעימים, טעימוֹת
+    note: ta-im, te-imah, te-imim, te-imot
+  - english: fresh
+    hebrew: טרי, טרייה, טריים, טרייוֹת
+    note: tari, triyah, tri-im, triyot
+
+unit 4 - list 4:
+  - english: bread
+    hebrew: לחם
+    note: lékhem (m.)
+  - english: cheese
+    hebrew: גבינה
+    note: gvinah (f.)
+  - english: white cheese
+    hebrew: גבינה לבנה
+    note: gvinah levanah
+  - english: butter
+    hebrew: חמאה
+    note: khem-ah (f.)
+  - english: olives
+    hebrew: זיתים
+    note: zeytim (m.pl.)
+  - english: omelette
+    hebrew: חביתה
+    note: khavitah (f.)
+  - english: actually
+    hebrew: בעצם
+    note: b’étsem
+  - english: breakfast
+    hebrew: ארוחת בּוֹקר
+    note: arukhat bóker
+  - english: lunch
+    hebrew: ארוחת צהריים
+    note: arukhat tsohoráyim
+  - english: dinner
+    hebrew: ארוחת ערב
+    note: arukhat érev
+  - english: assortment of pastry breads and rolls
+    hebrew: לחמניוֹת
+    note: lakhmaniyot
+  - english: jam
+    hebrew: ריבה
+    note: ribah
+  - english: cheeses, pickles
+    hebrew: חמוּצים
+    note: khamutsim
+  - english: salted fish
+    hebrew: דג מלוּח
+    note: dag malú-akh
+  - english: soft-boiled, hard-boiled eggs
+    hebrew: ביצים רכוֹת,קשׁוֹת
+    note: beytsim rakot,kashot
+  - english: scrambled eggs
+    hebrew: מקוּשׁקשׁוֹת 
+    note: mekushkashot
+
+unit 4 - list 5:
+  - english: Can I/we
+    hebrew: אפשׁר
+    note: efshar
+  - english: have/order?
+    hebrew: לקבל/להזמין?
+    note: l’kabel/l’hazmin
+  - english: Do you have?
+    hebrew: ישׁ לכם?
+    note: yesh lakhem
+  - english: I prefer (m./f.)
+    hebrew: אני מעדיף/מעדיפה
+    note: ani ma’adif/ma’adifah
+  - english: I am on a diet
+    hebrew: אני בדיאטה
+    note: ani b’diéta
+  - english: I only eat kosher food (m./f.)
+    hebrew: אני אוכל (אוכלת) רק אוכל כשׁר
+    note: ani okhel/okhélet rak ókhel kasher
+  - english: not too much
+    hebrew: לא יוֹתר מדי
+    note: lo yoter miday
+  - english: not too greasy
+    hebrew: לא יוֹתר מדי שׁמן
+    note: lo yoter miday shamen
+  - english: it’s fattening
+    hebrew: זה משׁמין
+    note: zeh mashmin
+  - english: enough, thank you
+    hebrew: מספיק, תוֹדה
+    note: maspik, todah
+  - english: slim
+    hebrew: רזה
+    note: razah
+  - english: gorgeous
+    hebrew: חתיכה
+    note: khatikhah
+  - english: she sits
+    hebrew: יוֹשׁבת
+    note: yoshévet
+  - english: the dining room
+    hebrew: חדר האוֹכל
+    note: khadar ha’ókhel (m.)
+  - english: actually
+    hebrew: דווקא
+    note: dávka
+  - english: mainly
+    hebrew: בעיקר
+    note: b’ikar
+  - english: even
+    hebrew: אפילוּ
+    note: afílu
+
+unit 5 - list 1:
+  - english: plan
+    hebrew: תכנית
+    note: tokhnit (f.)
+  - english: your
+    hebrew: שׁלך
+    note: shelkha
+  - english: you (m.pl.) have
+    hebrew: ישׁ לכם
+    note: yesh lakhem
+  - english: special
+    hebrew: מיוּחד(ת)
+    note: meyukhad (meyukhédet,f.)
+  - english: people
+    hebrew: אנשׁים
+    note: anashim(m.pl.)
+  - english: live
+    hebrew: חיים
+    note: khayim
+  - english: from what?
+    hebrew: ממה?
+    note: mi’mah
+  - english: to start, to begin
+    hebrew: להתחיל
+    note: l’hatkhil
+  - english: to meet
+    hebrew: לפגוֹשׁ (פ-ג-ש)
+    note: li’fgosh G1
+  - english: naturally, of course
+    hebrew: כמוּבן
+    note: kamuvan
+  - english: historical site
+    hebrew: אתר היסטוֹרי
+    note: atar (m.) histori
+  - english: place
+    hebrew: מקוֹם
+    note: makom (mekomot, m.)
+  - english: holy
+    hebrew: קדוֹשׁ
+    note: kadosh
+  - english: suggest(s)
+    hebrew: מציע(ה)
+    note: matsí-a (matsi-ah, f.)
+  - english: and especially
+    hebrew: וּבמיוּחד
+    note: u’vi’myukhad
+  - english: probably
+    hebrew: כנראה
+    note: kanir-eh
+  - english: time
+    hebrew: זמן
+    note: zman (m.)
+  - english: refrigerator
+    hebrew: מקרר
+    note: mekarer (m.)
+
+unit 5 - list 2:
+  - english: luck, fortune
+    hebrew: מזל
+    note: mazal (m.)
+  - english: which/what?
+    hebrew: איזה?
+    note: eyzeh
+  - english: (in a) kibbutz
+    hebrew: (ב)קיבוּץ
+    note: (b’)kibuts (m.)
+  - english: (in the) north
+    hebrew: (ב)צפוֹן
+    note: (ba’)tsafon (m.)
+  - english: typical
+    hebrew: טיפוּסי(ת)
+    note: tipusi(-t,f.)
+  - english: around, like, as
+    hebrew: כ...
+    note: k’...
+  - english: so, this/that way
+    hebrew: ככה
+    note: kákhah
+  - english: can, able to
+    hebrew: יכוֹל (י-כ-ל)
+    note: yakhol
+  - english: to ask
+    hebrew: לשאוֹל (שׁ-א-ל)
+    note: li’sh-ol G1
+  - english: to meet
+    hebrew: לפגוֹשׁ (פ-ג-שׁ)
+    note: li’fgosh G1
+  - english: that which
+    hebrew: מה שׁ...
+    note: mah she’...
+  - english: friendly
+    hebrew: חברוּתי(ת)
+    note: khevruti(-t,f.)
+  - english: come!
+    hebrew: בוֹא/בוֹאי
+    note: bo/bo-i (f.)
+  - english: let’s start, we will start
+    hebrew: נתחיל
+    note: natkhil
+  - english: to get up
+    hebrew: לקוּם (ק-ו-ם)
+    note: la’kum
+  - english: to put
+    hebrew: לשׂים (ש-י-ם)
+    note: la’sim
+  - english: to come
+    hebrew: לבוֹא (ב-וֹ-א)
+    note: la’vo
+  - english: to run
+    hebrew: לרוּץ (ר-וּ-ץ)
+    note: la’ruts
+  - english: home(wards)
+    hebrew: הביתה
+    note: ha’baytah
+  - english: kettle
+    hebrew: קוּמקוּם
+    note: kumkum (m.)
+  - english: park
+    hebrew: פרק
+    note: park (m.)
+
+unit 5 - list 3:
+  - english: which? (m.)
+    hebrew: איזה?
+    note: eyzeh
+  - english: which? (f.)
+    hebrew: איזוֹ?
+    note: eyzo
+  - english: which? (pl.)
+    hebrew: אילוּ?
+    note: eylu
+  - english: newspaper
+    hebrew: יעתוֹן
+    note: iton (m.)
+  - english: this (m.)
+    hebrew: הזה
+    note: ha’zeh
+  - english: this (f.)
+    hebrew: הזאת
+    note: ha’zot
+  - english: these (m./f. pl.)
+    hebrew: האלה
+    note: ha’éleh
+  - english: that (m.)
+    hebrew: ההוּא
+    note: ha’hu
+  - english: that (f.)
+    hebrew: ההיא
+    note: ha’hi
+  - english: those (m.)
+    hebrew: ההם
+    note: ha’hem
+  - english: those (f.)
+    hebrew: ההן
+    note: ha’hen
+
+unit 5 - list 4:
+  - english: kibbutz member
+    hebrew: חברת קיבוּץ
+    note: khaverat (f.) kibuts
+  - english: sabbatical
+    hebrew: שׁבתוֹן
+    note: shabaton (m.)
+  - english: rest, remainder
+    hebrew: שׁאר
+    note: she-ar (m.)
+  - english: sister
+    hebrew: אחוֹת (אחיוֹת)
+    note: akhot (akhayot, pl.)
+  - english: husband
+    hebrew: בעל
+    note: bá-al
+  - english: children
+    hebrew: ילדים
+    note: yeladim
+  - english: United States
+    hebrew: ארצוֹת הברית
+    note: artsot ha’brit
+  - english: married
+    hebrew: נשׂוּי (נשׂוּאה)
+    note: nasuy (nesu-ah, f.)
+  - english: still
+    hebrew: עדיין
+    note: adáyin
+  - english: problem
+    hebrew: בעיה
+    note: be-ayah
+  - english: to sit
+    hebrew: לשׁבת
+    note: la’shevet
+
+unit 5 - family:
+  - english: father
+    hebrew: אבּא
+    note: ába
+  - english: mother
+    hebrew: אמא
+    note: íma
+  - english: parents
+    hebrew: הוֹרים
+    note: horim
+  - english: children
+    hebrew: ילדים
+    note: yeladim
+  - english: boy/girl
+    hebrew: ילד/ילדה
+    note: yéled/yaldah
+  - english: baby
+    hebrew: תינוֹק(ת)
+    note: tinok (m.)/tinóket (f.)
+  - english: son
+    hebrew: בן
+    note: ben
+  - english: daughter
+    hebrew: בת (בנוֹת)
+    note: bat (banot, pl.)
+  - english: brother
+    hebrew: אח
+    note: akh
+  - english: sister
+    hebrew: אחוֹת
+    note: akhot
+  - english: cousin (m.)
+    hebrew: בן דוֹד
+    note: ben dod (m.)
+  - english: cousin (f.)
+    hebrew: בת דוֹדה
+    note: bat dódah (f.)
+  - english: cousins
+    hebrew: בני דוֹדים
+    note: bney dodim
+  - english: uncle
+    hebrew: דוֹד
+    note: dod
+  - english: aunt
+    hebrew: דוֹדה
+    note: dódah
+  - english: grandfather
+    hebrew: סבא
+    note: sábah
+  - english: grandmother
+    hebrew: סבתא
+    note: sávtah
+  - english: husband
+    hebrew: בעל
+    note: bá-al
+  - english: wife
+    hebrew: אישׁה (נשׁים)
+    note: ishah (nashim)
+  - english: father-in-law
+    hebrew: חוֹתן
+    note: khoten
+  - english: mother-in-law
+    hebrew: חוֹתנת
+    note: khoténet
+  - english: brother-in-law
+    hebrew: גיס
+    note: gis
+  - english: sister-in-law
+    hebrew: גיסה
+    note: gisah
+  - english: neighbour
+    hebrew: שׁכן, שׁכנה
+    note: shakhen, shakhenah
+     
+unit 5 - adjectives:
+  - english: married
+    hebrew: נשׂוּי (נשׂוּאה)
+    note: nasuy (nesu-ah, f.)
+  - english: single
+    hebrew: רווק(ה)
+    note: ravak (-ah, f.)
+  - english: divorced
+    hebrew: גרוּשׁ(ה)
+    note: garush (grushah, f.)
+  - english: young
+    hebrew: צעיר(ה)
+    note: tsa-ir (tse-irah, f.)
+  - english: ‘elderly’
+    hebrew: מבוּגר(ת)
+    note: mevugar (mevugéret, f.)
+  - english: friendly
+    hebrew: חברוּתי(ת)
+    note: khevruti(-t, f.)
+  - english: difficult
+    hebrew: קשׁה (קשׁה)
+    note: kasheh (kashah, f.)
+  - english: clever
+    hebrew: חכם(ה)
+    note: khakham(-ah, f.)
+  - english: stupid
+    hebrew: טיפשׁ(ה)
+    note: tipesh (tipshah, f.)
+  - english: funny
+    hebrew: מצחיק(ה)
+    note: matskhik(-ah, f.)
+  - english: serious
+    hebrew: רציני(ת)
+    note: retsini(-t, f.)
+  - english: interesting
+    hebrew: מעניין(ת)
+    note: me-anyen(-et, f.)
+  - english: boring
+    hebrew: משׁעמם(ת)
+    note: mesha-amem(-et, f.)
+  - english: tall
+    hebrew: גבוֹה(ה)
+    note: gavóhah (gvohah, f.)
+  - english: short
+    hebrew: נמוּך(ה)
+    note: namukh (nemukhah, f.)
+   
+unit 6 - list 1:
+  - english: (item of) clothing
+    hebrew: בגד
+    note: béged (m.) (bgadim, pl.)
+  - english: summer clothes
+    hebrew: בגדי קיץ
+    note: bigdey káyits (keytsim, pl.)
+  - english: winter clothes
+    hebrew: בגדי חוֹרף
+    note: bigdey khóref
+  - english: bottles of wine
+    hebrew: בקבוּקי יין
+    note: bakbukey yáyin (bakbukim shel yáyin)
+  - english: suitable
+    hebrew: מתאים(ה)
+    note: mat-im (-ah, f.)
+  - english: weather
+    hebrew: מזג אוויר
+    note: |
+      mézeg (m.) avir (m.)
+      (lit. ‘temper’ of air)
+  - english: like, as
+    hebrew: כמוֹ
+    note: kmo
+  - english: shopping mall
+    hebrew: קניוֹן
+    note: kanyon (m.)
+  - english: far
+    hebrew: רחוֹק(ה)
+    note: rakhok (rekhukah, f.)
+  - english: (that/which is) open
+    hebrew: (שׁ)פתוּח
+    note: (she’) patú-akh (ptukhah, f.)
+  - english: early
+    hebrew: מוּקדם
+    note: mukdam
+  - english: all/every
+    hebrew: כל
+    note: kol
+  - english: all/everything
+    hebrew: הכל
+    note: ha’kol
+  - english: shoe
+    hebrew: נעל(יים)
+    note: na-al (na-aláyim, f.pl.)
+  - english: glasses
+    hebrew: משׁקפיים
+    note: mishkafáyim (m.pl.)
+  - english: sunglasses
+    hebrew: משׁקפי שׁמשׁ
+    note: mishkafey shémesh (m.)
+  - english: optical glasses
+    hebrew: משׁקפי ראייה
+    note: |
+      mishkafay re-iyah (m.)
+      (lit. glasses for vision)
+  - english: book
+    hebrew: ספר(ים)
+    note: séfer (sfarim, m.pl.)
+  - english: man
+    hebrew: גבר(ים)
+    note: géver (gvarim, pl.)
+  - english: more
+    hebrew: עוֹד
+    note: od
+  - english: (sun) protection cream
+    hebrew: קרם הגנה
+    note: krem (m.) haganah (f.)
+  - english: hat
+    hebrew: כוֹבע
+    note: kóva (m.)
+  - english: problem
+    hebrew: בעיה
+    note: be-ayah (f.)
+  - english: they sell
+    hebrew: מוֹכרים (מ-כ-ר)
+    note: mokhrim G1
+  - english: product
+    hebrew: מוּצר
+    note: mutsar (m.)
+  - english: cosmetics
+    hebrew: קוֹסמטיקה
+    note: kosmétikah (f.)
+
+unit 6 - list 2:
+  - english: leather
+    hebrew: עוֹר
+    note: or (m.)
+  - english: sandal
+    hebrew: סנדל
+    note: sandal (m.)
+  - english: sport
+    hebrew: ספוֹרט
+    note: sport (m.)
+  - english: sun
+    hebrew: שׁמשׁ
+    note: shémesh (f.)
+  - english: hospital
+    hebrew: בית חוֹלים
+    note: beyt kholim
+  - english: dress
+    hebrew: שׂמלה
+    note: simlah (smalot, f.)
+  - english: to hear
+    hebrew: לשׁמוֹע (שׁ-מ-ע)
+    note: li’shmó-a
+  - english: to forget
+    hebrew: לשׁכוֹח (שׁ-כ-ח)
+    note: li’shkó-akh
+  - english: to open
+    hebrew: לפתוֹח (פ-ת-ח)
+    note: li’ftó-akh
+  - english: to send
+    hebrew: לשׁלוֹח (שׁ-ל-ח)
+    note: li’shló-akh
+  - english: to know
+    hebrew: לדיעת (י-ד-ע)
+    note: la’dá-at
+  - english: to travel
+    hebrew: לנסוע (נ-ס-ע)
+    note: li’nsó-a
+
+unit 6 - list 3:
+  - english: pharmacy
+    hebrew: בית מרקחת
+    note: beyt mirkákhat (m.)
+  - english: how?
+    hebrew: איך
+    note: ekh
+  - english: to close/shut
+    hebrew: לסגוֹר (ס-ג-ר)
+    note: li’sgor G1
+  - english: to find
+    hebrew: למצוֹא (מ-צ-א)
+    note: li’mtso G1
+  - english: picnic
+    hebrew: פיקניק
+    note: piknik (m.)
+  - english: greengrocer’s
+    hebrew: חנוֹת ירקוֹת
+    note: khanut yerakot (f.)
+  - english: grocer’s
+    hebrew: מכוֹלת
+    note: makólet (f.)
+  - english: butcher’s
+    hebrew: אטליז
+    note: itliz (m.)
+  - english: pharmacy
+    hebrew: בית מרקחת
+    note: beyt mirkákhat (f.)
+  - english: stationery shop
+    hebrew: מנוֹת כלי כתיבה
+    note: khanut kley ktivah (f.)
+  - english: post office
+    hebrew: דוֹאר
+    note: dó-ar (m.)
+  - english: bank
+    hebrew: בנק
+    note: bank (m.)
+  - english: petrol station
+    hebrew: תחנת דלק
+    note: takhanat délek (f.)
+
+unit 6 - list 3:
+  - english: money
+    hebrew: כסף
+    note: késef (m.)
+  - english: cash
+    hebrew: מזוּמן
+    note: mezuman (m.)
+  - english: meat
+    hebrew: בשׂר
+    note: basar (m.)
+  - english: sausage/salami
+    hebrew: נקניק
+    note: naknik (m.)
+  - english: stamp
+    hebrew: בוּל
+    note: bul (m.)
+  - english: pen
+    hebrew: עט
+    note: et (m.)
+  - english: pencil
+    hebrew: עפרוֹן (עפרוֹנוֹת)
+    note: iparon (efronot, m./pl.)
+  - english: bread roll
+    hebrew: לחמניה
+    note: lakhmanyah (f.)
+  - english: trousers
+    hebrew: מכנסיים
+    note: mikhnasáyim (m./ pl.)
+  - english: letter paper
+    hebrew: נייר מכתבים
+    note: nyar (m.) mikhtavim
+  - english: blouse, shirt
+    hebrew: חוּלצה
+    note: khultsah (f.)
+  - english: sock(s)
+    hebrew: גרב (גרביים)
+    note: gérev (garbáyim, m./pl.)
+
+unit 6 - list 3:
+  - english: a great idea
+    hebrew: יוֹפי שׁל רעיוֹן
+    note: yofi shel ra-ayon
+  - english: first, before
+    hebrew: קוֹדם
+    note: kódem
+  - english: then, later
+    hebrew: אחר כך
+    note: akhar kakh
+  - english: car
+    hebrew: מכוֹנית
+    note: mekhonit (f.)
+  - english: traditional loaf
+    hebrew: חלה
+    note: khalah (f.)
+  - english: delicatessen
+    hebrew: מעדנייה
+    note: ma-adanyah (f.)
+  - english: gift, present
+    hebrew: מתנה
+    note: matanah (f.)
+  - english: hair appointment
+    hebrew: תוֹר במספרה
+    note: tor (m.) ba’misparah
+  
+unit 6 - list 4:
+  - english: sales assistant
+    hebrew: מוֹכר(ת)
+    note: mokher(-et, f.)
+  - english: like these
+    hebrew: כאלה
+    note: ka-éleh (m./f., pl.)
+  - english: like this
+    hebrew: כזה, כזאת
+    note: kazeh(m.) kazot(f.)
+  - english: size
+    hebrew: מידה
+    note: midah (f.)
+  - english: colour
+    hebrew: צבע
+    note: tséva (m.)
+  - english: black
+    hebrew: שׁחוֹר
+    note: shakhor (shkhorah, f.)
+  - english: brown
+    hebrew: חוּם(ה)
+    note: khum (-ah, f.)
+  - english: beige
+    hebrew: בז'
+    note: bej (m./f., s./pl.)
+  - english: I like (lit.’find charm in my eyes’)
+    hebrew: מוֹצאוֹת חן בעיני
+    note: mots-ot khen b’enay
+  - english: how much/many?
+    hebrew: כמה?
+    note: kámah
+  - english: (they) cost
+    hebrew: עוֹלים (ע-ל-ה)
+    note: olim G1
+  - english: expensive
+    hebrew: יקר(ה)
+    note: yakar (yekarah, f.)
+  - english: discount
+    hebrew: הנחה
+    note: hanakhah (f.)
+  - english: make, brand
+    hebrew: מוּתג
+    note: mutag (m.)
+  - english: famous
+    hebrew: מפוּרסם(ת)
+    note: mefursam (mefursémet, f.)
+  - english: tight, narrow
+    hebrew: צר(ה)
+    note: tsar (tsarah, f.)
+  - english: foot, leg
+    hebrew: רגל (רגליים)
+    note: regel (ragláyim, f., pl.)
+  - english: right (adj.)
+    hebrew: ימני(ת)
+    note: yemani(-t, f.)
+  - english: left (adj.)
+    hebrew: שׂמאל(ית)
+    note: smol (smalit, f.)
+  - english: am/is right
+    hebrew: צוֹדק (צ-ד-ק)
+    note: tsodek G1
+  - english: wear(s) (only for shoes)
+    hebrew: נוֹעל (נ-ע-ל)
+    note: no-el G1
+  - english: pair
+    hebrew: זוּג
+    note: zug (m.)
+  - english: other, different
+    hebrew: אחר(ת)
+    note: akher(-et, f.)
+  - english: rich
+    hebrew: עשׁיר(ה)
+    note: ashir(-ah, f.)
+
+unit 6 - Useful expressions:
+  - english: what is the price please?
+    hebrew: מה המחיר בבקשׁה?
+    note: mah ha’mekhir b’vakashah?
+  - english: How much does it cost?
+    hebrew: כמה זה עוֹלה?
+    note: kamah zeh oleh?
+  - english: Is there a discount?
+    hebrew: ישׁ הנחה?
+    note: yesh hanakhah?
+  - english: We have a special offer
+    hebrew: יש לנוּ מבצע מיוּחד
+    note: yesh lanu mivtsa myukhad
+  - english: You get a 10% discount
+    hebrew: אתה מקבל הנחה עשׂרה
+    note: atah mekabel hanakhah asarah akhuzim
+  - english: It costs 300 shékels with (lit. ‘after’) a discount
+    hebrew: זה עוֹלה שׁלוֹשׁ מאוֹת שׁקל אחרי הנחה
+    note: zeh oleh 300 shekel akharey hanakhah
+  - english: Is it possible to pay by cheque?
+    hebrew: אפשׁר לשלם בצ'ק?
+    note: efshar le’shalem b’tshek?
+  - english: We do not accept cheques
+    hebrew: אנחנוּ (לא) מקבלים צ'קים
+    note: anakhnu lo mekablim tshekim
+  - english: Do you accept credit cards?
+    hebrew: אתם מקבלים כרטיסי אשׁראי?
+    note: atem mekablim kartisey ashray?
+
+unit 6 - list 5:
+  - english: coat
+    hebrew: מעיל
+    note: me-il (m.)
+  - english: red
+    hebrew: אדוֹם(ה)
+    note: adom (adumah, f.)
+  - english: look(s) for
+    hebrew: מחפשׂ(ת)
+    note: mekhapes(-et, f.)
+  - english: Questions
+    hebrew: שׁאלוֹת
+    note: she-elot
+  - english: Replies/answers
+    hebrew: תשׁוּבוֹת
+    note: tshuvot
+
+unit 6 - numbers 11-19:
+  - english: 11 (m.)
+    hebrew: אחר-עשׁר
+    note: akhad-asar
+  - english: 11 (f.)
+    hebrew: אחת-עשׂרה
+    note: akhat-esreh
+  - english: 12 (m.)
+    hebrew: שׁנים-עשׁר
+    note: shnem-asar
+  - english: 12 (f.)
+    hebrew: שׁתים-עשׂרה
+    note: shtem-esreh
+  - english: 13 (m.)
+    hebrew: שׁלוֹשׁה-עשׁר
+    note: shloshah-asar
+  - english: 13 (f.)
+    hebrew: שׁלוֹשׁ-עשׂרה
+    note: shlosh-esreh
+  - english: 14 (m.)
+    hebrew: ארבעה-עשׁר
+    note: arba-ah-asar
+  - english: 14 (f.)
+    hebrew: ארבע-עשׂרה
+    note: arba-esreh
+  - english: 15 (m.)
+    hebrew: חמישׁה-עשׁר
+    note: khamishah-asar
+  - english: 15 (f.)
+    hebrew: חמשׁ-עשׂרה
+    note: khamesh-esreh
+  - english: 16 (m.)
+    hebrew: שׁישׁה-עשׁר
+    note: shishah-asar
+  - english: 16 (f.)
+    hebrew: שׁשׁ-עשׂרה
+    note: shesh-esreh
+  - english: 17 (m.)
+    hebrew: שׁבעה-עשׁר
+    note: shiv-ah-asar
+  - english: 17 (f.)
+    hebrew: שׁבע-עשׂרה
+    note: shva-esreh
+  - english: 18 (m.)
+    hebrew: שׁמוֹנה-עשׁר
+    note: shmonah-asar
+  - english: 18 (f.)
+    hebrew: שׁמוֹנה-עשׂרה
+    note: shmoneh-esreh
+  - english: 19 (m.)
+    hebrew: תשׁעה-עשׁר
+    note: tish-ah-asar
+  - english: 19 (f.)
+    hebrew: תשׁע-עשׂרה
+    note: tsha-esreh
+
+unit 6 - numbers tens:
+  - english: "10"
+    hebrew: עשׂר
+    note: éser
+  - english: "20"
+    hebrew: עשׂרים
+    note: esrim
+  - english: "30"
+    hebrew: שׁלוֹשׁים
+    note: shloshim
+  - english: "40"
+    hebrew: ארבעים
+    note: arba-im
+  - english: "50"
+    hebrew: חמישׁים
+    note: khamishim
+  - english: "60"
+    hebrew: שׁישׁים
+    note: shishim
+  - english: "70"
+    hebrew: שׁבעים
+    note: shiv-im
+  - english: "80"
+    hebrew: שׁמוֹנים
+    note: shmonim
+  - english: "90"
+    hebrew: תשׁעים
+    note: tish-im
+
+unit 6 - numbers hundreds:
+  - english: "100"
+    hebrew: מאה
+    note: me-ah
+  - english: "200"
+    hebrew: מאתיים
+    note: matayim
+  - english: "300"
+    hebrew: שׁלוֹשׁ מאוֹת
+    note: shlosh me-ot
+  - english: "400"
+    hebrew: ארבע מאוֹת
+    note: arba me-ot
+  - english: "500"
+    hebrew: חמשׁ מאוֹת
+    note: khamesh me-ot
+  - english: "600"
+    hebrew: שׁשׁ מאוֹת
+    note: shesh me-ot
+  - english: "700"
+    hebrew: שׁבע מאוֹת
+    note: shva me-ot
+  - english: "800"
+    hebrew: שׁמוֹנה מאוֹת
+    note: shmoneh me-ot
+  - english: "900"
+    hebrew: תשׁע מאוֹת
+    note: tsha me-ot
+
+unit 6 - numbers thousands:
+  - english: 1,000
+    hebrew: אלף
+    note: élef
+  - english: 2,000
+    hebrew: אלפיים
+    note: alpáyim
+  - english: 3,000
+    hebrew: שׁלוֹשׁת אלפים
+    note: shloshet alafim
+  - english: 4,000
+    hebrew: ארבעת אלפים
+    note: arba-at alafim
+  - english: 5,000
+    hebrew: חמשׁת אלפים
+    note: khameshet alafim
+  - english: 6,000
+    hebrew: שׁשׁת אלפים
+    note: sheshet alafim
+  - english: 7,000
+    hebrew: שׁבעת אלפים
+    note: shiv-at alafim
+  - english: 8,000
+    hebrew: שׁמוֹנת אלפים
+    note: shmonat alafim
+  - english: 9,000
+    hebrew: תשׁעת אלפים
+    note: tish-at alafim
+  - english: 10,000
+    hebrew: עשׁרת אלפים
+    note: aseret alafim
+  - english: 20,000
+    hebrew: עשׁרים אלף
+    note: esrim élef
+  - english: 100,000
+    hebrew: מאה אלף
+    note: me-ah élef
+  - english: 1,000,000
+    hebrew: מיליוֹן
+    note: milyon
+
+unit 6 - numbers test:
+  - english: 28 or 29 days (m.)
+    hebrew: עשׁרים וּשׁמוֹנה אוֹ עשׁרים ותשׁעה ימים
+    note: esrim u’shmonah o esrim v’tish-ah yamim
+  - english: 22 months (m.)
+    hebrew: עשׁרים וּשׁניים חוֹדשׁים
+    note: esrim u’shnayim khodashim
+  - english: 8,848 metres (m.)
+    hebrew: שׁמוֹנה אלפים שׁמוֹנה מאוֹת ארבעים וּשׁמוֹנה מטרים
+    note: shmonet alafim shmoneh me-ot arba-im u’shmonah metrim
+  - english: "610"
+    hebrew: שׁשׁ מאוֹת ועשׂר
+    note: shesh me-ot v’éser
+  - english: "1856"
+    hebrew: אלף שׁמוֹנה מאוֹת חמישׁים ושׁשׁ
+    note: élef shmoneh me-ot khamishim v’shesh
+  - english: "1969"
+    hebrew: אלף תשׁע מאוֹת שׁישׁים ותשׂע
+    note: élef tsha me-ot shishim v’tesha
+
+
+unit 6 - list 6:
+  - english: to help
+    hebrew: לעזוֹר (ע-ז-ר)
+    note: la-azor G1
+  - english: brush
+    hebrew: מברשׁת
+    note: mivréshet(f.)
+  - english: hair
+    hebrew: שׂער
+    note: se-ar(f.)
+  - english: teeth
+    hebrew: שׁיניים
+    note: shináyim(f., pl.)
+  - english: soap
+    hebrew: סבוֹן
+    note: sabon(m.)
+  - english: paste
+    hebrew: משׁחה
+    note: mishkhah(f.)
+  - english: side
+    hebrew: צד
+    note: tsad(f.)
+  - english: shampoo
+    hebrew: שׁמפוֹ
+    note: shampo(m.)
+  - english: small change
+    hebrew: כסף קטן
+    note: késef katan
+  - english: change/surplus
+    hebrew: עוֹדף
+    note: ódef(m.)
+    
+unit 7 - list 1:
+  - english: call(s), ring(s)
+    hebrew: מצלצלת (צ-ל-צ-ל)
+    note: metsaltsélet G2
+  - english: busy
+    hebrew: עסוּק(ה)
+    note: asuk(-ah, f.)
+  - english: you (direct obj.)
+    hebrew: אוֹתך
+    note: otakh (f., sing.)
+  - english: reason
+    hebrew: סיבה
+    note: sibah (f.)
+  - english: speak(s), is speaking
+    hebrew: מדברת (ד-ב-ר)
+    note: medabéret G2
+  - english: friend
+    hebrew: ידיד(ה)
+    note: yadid (yedidah,   f.)
+  - english: article
+    hebrew: מאמר
+    note: ma-amar (m.)
+  - english: towards
+    hebrew: לקראת
+    note: likrat
+  - english: end
+    hebrew: סוֹף
+    note: sof (m.)
+  - english: weekend
+    hebrew: סוֹף שׁבוּע
+    note: sof shavú-a
+  - english: certainly, definitely
+    hebrew: וודאי
+    note: vaday
+  - english: |
+      with pleasure, willingly
+      (lit. ‘with much willingness’)
+    hebrew: ברצוֹן רב
+    note: b’ratson rav
+  - english: why
+    hebrew: למה
+    note: lámah
+  - english: remember(s)
+    hebrew: זוֹכר (ז-כ-ר)
+    note: zokher G1
+  - english: birthday
+    hebrew: יוֹם הוּלדת
+    note: yom hulédet
+  - english: in a couple of days
+    hebrew: בעוֹד יוֹמיים
+    note: b’od yomáyim
+  - english: |
+      eight years old
+      (lit. ‘daughter of eight’)
+    hebrew: בת 8
+    note: bat shmóneh
+  - english: |
+      difficult, hard*
+      adverb + adj.
+    hebrew: קשׁה 
+    note: kasheh(-ah, f.)
+  - english: to believe
+    hebrew: להאמין
+    note: l’ha-amin
+  - english: question
+    hebrew: שאלה
+    note: she’elah (f.)
+  - english: Thank God (lit. ‘blessed is the Name’)
+    hebrew: ברוּך השׁם
+    note: barukh ha’shem
+  - english: |
+      simply/simple*
+      adverb + adj.
+    hebrew: פשׁוּט(ה)
+    note: pashut (pshutah, f.)
+  - english: jewelry
+    hebrew: תכשׁיט
+    note: takhshit (m.)
+  - english: something
+    hebrew: משׁהוּ
+    note: máshehu
+  - english: generally, at all
+    hebrew: בכלל
+    note: bikhlal
+  - english: to look for
+    hebrew: לחפשׁ
+    note: le’khapes G2
+    
+unit 7 - Group 2 verbs:
+  - english: to search
+    hebrew: לחפשׂ (ח-פ-שׂ)
+    note: le’khapes
+  - english: to visit
+    hebrew: לבקר (ב-ק-ר)
+    note: le’vaker
+  - english: to pay
+    hebrew: לשׁלם (שׁ-ל-ם)
+    note: le’shalem
+  - english: to receive/get
+    hebrew: לקבל (ק-ב-ל)
+    note: le’kabel
+  - english: to tour, travel around
+    hebrew: לטייל (ט-י-ל)
+    note: le’tayel
+  - english: to arrange
+    hebrew: לסדר (ס-ד-ר)
+    note: le’sader
+  - english: to cook
+    hebrew: לבשׁל (ב-שׁ-ל)
+    note: le’vashel
+  - english: to repair
+    hebrew: לתקן (ת-ק-ן)
+    note: le’taken
+  - english: to scorn
+    hebrew: לזלזל
+    note: le’zalzel
+  - english: to spoil, damage, ruin
+    hebrew: לקלקל
+    note: le’kalkel
+  - english: to chatter
+    hebrew: לפטפט
+    note: le’fatpet
+  - english: to scribble, rattle, babble, idle chatter
+    hebrew: לקשׁקשׁ
+    note: le’kashkesh
+  - english: to confuse, mix up
+    hebrew: לבלבל
+    note: le’valbel
+
+unit 7 - list 2:
+  - english: vehicle, car
+    hebrew: רכב
+    note: rékhev (m.)
+  - english: to finish
+    hebrew: לגמוֹר (ג-מ-ר)
+    note: li’gmor G1
+  - english: to go out, leave
+    hebrew: לצאת (י-צ-א)
+    note: la’tset G1
+  - english: in order to
+    hebrew: כדי
+    note: kedey (+ infinitive)
+  - english: to get stuck
+    hebrew: להיתקע
+    note: l’hitaka
+  - english: traffic jam (also plug)
+    hebrew: פקק
+    note: pkak (m.)
+  - english: at, with, at the home of
+    hebrew: אצל
+    note: etzel
+  - english: Galilee
+    hebrew: גליל
+    note: galil
+  - english: more... than
+    hebrew: יוֹתר ... מ(מאשׁר)
+    note: yoter... mi (me’asher)
+  - english: to be
+    hebrew: להיוֹת
+    note: li’hiyot
+  - english: just, merely
+    hebrew: סתם
+    note: stam
+  - english: thing
+    hebrew: דבר
+    note: davar (m.)
+  - english: tour, trip
+    hebrew: טיוּל
+    note: tiyul (m.)
+  - english: thus, so
+    hebrew: אם כך
+    note: im kakh
+  - english: whole, entire
+    hebrew: שׁלם(ה)
+    note: shalem (shlemah, f.)
+  - english: pity, have sympathy for
+    hebrew: מרחמת על
+    note: merakhémet (f.) al G2
+  - english: fun
+    hebrew: כיף
+    note: kef (m.)
+
+unit 7 - ordinals:
+  - english: 1st
+    hebrew: ראשׁוֹן(נה)
+    note: rishon(-ah,f.)
+  - english: 2nd
+    hebrew: שׁני(ה)
+    note: sheni(shniyah)
+  - english: 3rd
+    hebrew: שׁלישׁי(ת)
+    note: shlishi(-t)
+  - english: 4th
+    hebrew: רביעי(ת)
+    note: revi-i(-t)
+  - english: 5th
+    hebrew: חמישׁי(ת)
+    note: khamishi(-t)
+  - english: 6th
+    hebrew: שׁישׁי(ת)
+    note: shishi(-t)
+  - english: 7th
+    hebrew: שׁביעי(ת)
+    note: shvi-i(-t)
+  - english: 8th
+    hebrew: שׁמיני(ת)
+    note: shmini(-t)
+  - english: 9th
+    hebrew: תשׁיעי(ת)
+    note: tshi-i(-t)
+  - english: 10th
+    hebrew: עשׂירי(ת)
+    note: asiri(-t)
+
+unit 7 - list 3:
+  - english: dark
+    hebrew: כהה
+    note: keheh (kehah, f.)
+  - english: wide
+    hebrew: רחב
+    note: rakhav (rekhavah, f.)
+  - english: customer
+    hebrew: לקוֹחה
+    note: lakó-akh(-khah, f.)
+  - english: wedding
+    hebrew: חתוּנה
+    note: khatunah (f.)
+  - english: laugh(s)
+    hebrew: צוֹחקת (צ-ח-ק)
+    note: tsokhéket (f.) G1
+  - english: silk
+    hebrew: משׁי
+    note: méshi (m.)
+  - english: festive
+    hebrew: חגיגי(ת)
+    note: khagigi(-t, f.)
+  - english: long
+    hebrew: ארוֹך
+    note: arokh (arukah, f.)
+  - english: |
+      [it’s] not terrible
+      i.e. never mind
+    hebrew: לא נוֹרא
+    note: lo nora
+  - english: ready
+    hebrew: מוּכן(ה)
+    note: mukhan(-ah, f.)
+
+unit 7 - list 4:
+  - english: feel(s)
+    hebrew: מרגישׁ (ר-ג-ש)
+    note: margish G2
+  - english: until
+    hebrew: עד
+    note: ad
+  - english: meeting
+    hebrew: פגישׁה
+    note: pgishah (f.)
+  - english: visit
+    hebrew: ביקוּר
+    note: bikur (m.)
+  - english: cinema
+    hebrew: קוֹלנוֹע
+    note: kolnó-a (m.)
+  - english: bicycle
+    hebrew: אפניים
+    note: ofanáyim (m./pl.)
+  - english: doctor
+    hebrew: רוֹפא(ה)
+    note: rofe (rofah, f.)
+
+unit 8 - list 1:
+  - english: cashier, ticket officer
+    hebrew: קוּפאי(ת)
+    note: kupay(-it, f.)
+  - english: direct (express)
+    hebrew: ישׁיר(ה)
+    note: yashir (yeshirah, f.)
+  - english: |
+      stopping [bus]
+      (lit. ‘collecting’)
+    hebrew: מאסף
+    note: me-asef
+  - english: to arrive, to get to
+    hebrew: להגיע (נ-ג-ע)
+    note: l’hagí-a G3
+  - english: soldier
+    hebrew: חייל(ת)
+    note: khayal (khayélet, f.)
+  - english: |
+      know(s)
+      (for people and places)
+    hebrew: מכיר(ה) (נ-כ-ר)
+    note: makir (makirah, f.)
+  - english: |
+      way/path/road (noun)
+      via, through (prep.)
+    hebrew: דרך
+    note: dérekh (m. and f.)
+  - english: in my view
+    hebrew: לפי דעתי
+    note: l’fi da-ati
+  - english: (it’s) worth, worthwhile 
+    hebrew: כדאי
+    note: keday
+  - english: road
+    hebrew: כבישׁ
+    note: kvish (m.)
+  - english: fast
+    hebrew: מהיר(ה)
+    note: mahir(-ah, f.)
+  - english: traveller, passenger
+    hebrew: נוֹסע(ת)
+    note: nosé-a (nosa-at, f.)
+  - english: it depends
+    hebrew: זה תלוּי
+    note: zeh taluy
+  - english: to change
+    hebrew: להחליף (ח-ל-ף)
+    note: l’hakhlif G3
+  - english: if
+    hebrew: אם
+    note: im
+  - english: am/is/are/ in a hurry
+    hebrew: ממהר (מ-ה-ר)
+    note: memaher G2
+  - english: quarter (of)
+    hebrew: רבע
+    note: réva
+  - english: an hour
+    hebrew: שׁעה
+    note: sha-ah
+  - english: go(es) via, pass(es) through
+    hebrew: עוֹבר (ע-ב-ר)
+    note: over G1
+  - english: minute
+    hebrew: דקה
+    note: dakah (f.)
+  - english: leave(s), go(es) out
+    hebrew: יוֹצא (י-צ-א)
+    note: yotse G1
+  - english: to go out
+    hebrew: לצאת
+    note: la’tset
+  - english: stop(s)
+    hebrew: עוֹצר (ע-צ-ר)
+    note: otser G1
+  - english: (and a) half
+    hebrew: (ו)חצי
+    note: (va’)khétsi
+  - english: decide(s)
+    hebrew: מחליט (ח-ל-ט)
+    note: makhlit G3
+  - english: utterly/completely
+    hebrew: לגמרי
+    note: l’gamrey
+  - english: confused
+    hebrew: מבוּלבל(ת)
+    note: mevulbal (mevulbélet, f.)
+  - english: to telephone
+    hebrew: לטלפן (ט-ל-פ-ן)
+    note: le’talpen G2
+  - english: to know (for people and places)
+    hebrew: להכיר (נ-כ-ר)
+    note: l’hakir G3
+  - english: to suggest
+    hebrew: להציע (י-צ-ע)
+    note: l’hatsi-a G3
+  - english: to arrive
+    hebrew: להגיע (נ-ג-ע)
+    note: l’hagi-a G3
+  - english: to decide
+    hebrew: להחליט (ח-ל-ט)
+    note: l’hakhlit G3
+
+unit 8 - list 2:
+  - english: clock, watch
+    hebrew: שׁעוֹן
+    note: sha-on (m.)
+  - english: hour
+    hebrew: שׁעה
+    note: sha-ah (f.)
+  - english: minute
+    hebrew: דקה
+    note: dakah (f.)
+  - english: second
+    hebrew: שׁנייה
+    note: shniyah (f.)
+  - english: moment, minute
+    hebrew: רגע
+    note: réga (m.)
+  - english: in another half an hour
+    hebrew: בעוֹד חצי שׁעה
+    note: be’od khátsi sha-ah
+  - english: past
+    hebrew: אחרי
+    note: akharey
+  - english: to, before
+    hebrew: לפני
+    note: lifney
+  - english: midnight
+    hebrew: חצוֹת
+    note: khatsot
+  - english: midday, noon
+    hebrew: |
+      (שׁתים עשׂרה ב)
+      צהריים
+    note: |
+      (shtem esreh ba’-)
+      tsohoráyim
+  - english: afternoon
+    hebrew: אחרי הצהריים
+    note: akharey ha’tsohoráyim
+  - english: what time is it?
+    hebrew: מה השׁעה?
+    note: mah hasha-ah
+  - english: how long...?
+    hebrew: כמה זמן...?
+    note: kamah zman...
+  - english: just a moment
+    hebrew: רק רגע
+    note: rak réga
+  - english: |
+      one [more] second
+    hebrew: עוֹד שׁנייה
+    note: od shniyah
+  - english: one moment
+    hebrew: רגע אחד
+    note: réga ekhad
+  - english: it is already late
+    hebrew: כבר מאוּחר
+    note: kvar me-ukhar
+
+unit 8 - list 3:
+  - english: the most (suitable)
+    hebrew: הכי (מתאים)
+    note: hakhi (mat-im)
+  - english: there and back
+    hebrew: הלוֹך ושׁוֹב
+    note: halokh va’shov
+  - english: direction
+    hebrew: כיווּן
+    note: kivun (m.)
+  - english: continue(s)
+    hebrew: ממשׁיך (מ-שׁ-ך)
+    note: mamshikh G3
+  - english: from there
+    hebrew: משׁם
+    note: mi’sham
+  - english: agura (= cent, smallest denomination of money)
+    hebrew: אגוֹרה
+    note: agorah (f.)
+  - english: bay (for bus); platform
+    hebrew: רציף
+    note: ratsif (m.)
+  - english: above, upstairs, upwards
+    hebrew: למעלה
+    note: l’málah
+  - english: downwards, down
+    hebrew: למטה
+    note: l’mátah
+  - english: forwards
+    hebrew: קדימה
+    note: kadímah
+  - english: backwards
+    hebrew: אחוֹרה
+    note: akhórah
+  - english: floor, storey
+    hebrew: קוֹמה
+    note: komah (f.)
+  - english: go(es) up, (cost(s))
+    hebrew: עוֹלה (ע-ל-ה)
+    note: oleh G1
+  - english: step (pl. stairs)
+    hebrew: מדרגה
+    note: madregah
+  - english: immediately
+    hebrew: מיד
+    note: miyad
+  - english: to the left
+    hebrew: שׂמאלה
+    note: smólah
+  - english: straight (ahead)
+    hebrew: ישׁר
+    note: yashar
+  - english: cashpoint, cash machine
+    hebrew: כספוֹמט
+    note: kaspomat (m.)
+  - english: turn(s)
+    hebrew: פוֹנה (פ-נ-ה)
+    note: poneh G1
+  - english: to the right
+    hebrew: ימינה
+    note: yemínah
+  - english: kiosk
+    hebrew: קיוֹסק
+    note: kyosk (m.)
+  - english: the best
+    hebrew: |
+      הטוֹב ביוֹתר
+      הכי טוֹב
+    note: |
+      ha’tov b’yoter
+      hakhi tov
+  - english: the worst
+    hebrew: |
+      הגרוע ביוֹתר
+      הכי גרוע
+    note: |
+      ha’garú-a b’yoter
+      hakhi garú-a
+  - english: generous
+    hebrew: נדיב(ה)
+    note: nadiv(-ah, f.)
+  - english: grandson
+    hebrew: נכד
+    note: nékhed
+  - english: granddaughter
+    hebrew: נכדה
+    note: nekhdah
+  - english: step
+    hebrew: צעד
+    note: tsa-ad
+
+unit 8 - list 4:
+  - english: cross(es)
+    hebrew: חוֹצה (ח-צ-ה)
+    note: khotseh G1
+  - english: junction
+    hebrew: צוֹמת
+    note: tsomet (f.)
+  - english: zebra crossing
+    hebrew: מעבר חצייה
+    note: ma-avar khatsayah
+  - english: traffic light(s)
+    hebrew: רמזוֹר(ים)
+    note: ramzor (m.)
+  - english: town square, circus
+    hebrew: כיכר
+    note: kikar (f.)
+  - english: market
+    hebrew: שׁוּק
+    note: shuk (m.)
+  - english: November
+    hebrew: נוֹבמבר
+    note: november
+  - english: special
+    hebrew: ספישׁל
+    note: speshel
+  - english: flight
+    hebrew: טיסה
+    note: tisah (f.)
+  - english: abroad (lit. ‘out of the country’)
+    hebrew: חוּ''ל (חוּץ לארץ)
+    note: khul (khuts la’arets)
+  - english: booking
+    hebrew: הזמנה
+    note: hazmanah (f.)
+  - english: payment
+    hebrew: תשלוּם
+    note: tashlum (m.)
+  - english: full
+    hebrew: מלא(ה)
+    note: male(mle-ah, f.)
+  - english: September
+    hebrew: ספטמבר
+    note: september
+  - english: holiday
+    hebrew: חוּפשׁה
+    note: khufshah (f.)
+  - english: annual
+    hebrew: שׁנתי(ת)
+    note: shnati(-t, f.)
+  - english: opportunity
+    hebrew: הזדמנוּת
+    note: hizdamnut (f.)
+  - english: loan
+    hebrew: הלוואה
+    note: halva-ah (f.)
+  - english: guests
+    hebrew: אוֹרחים
+    note: orkhim
+  - english: drink
+    hebrew: שׁוֹתים (שׁ-ת-ה)
+    note: shotim G1
+  - english: sit
+    hebrew: יוֹשׁבים (י-שׁ-ב)
+    note: yoshvim G1
+  - english: invite
+    hebrew: מזמינים (ז-מ-ן)
+    note: mazminim G3
+  - english: light
+    hebrew: מדליקים (ד-ל-ק)
+    note: madlikim G3
+  - english: read
+    hebrew: קוֹראים (ק-ר-א)
+    note: kor-im G1
+  - english: wear
+    hebrew: לוֹבשׁים (ל-ב-שׁ)
+    note: lovshim G1
+
+unit 8 - list 4:
+  - english: fly in an airplane
+    hebrew: טסים במטוֹס
+    note: tasim b’matos
+  - english: drive in a truck
+    hebrew: נוֹהגים במשׂאית
+    note: nohagim b’masa-it
+  - english: ride/drive in a shared taxi (lit. ‘service’)
+    hebrew: נוֹסעים בשׁרוּת
+    note: nos-im b’sherut
+  - english: sail in a boat or ship
+    hebrew: מפליגים באוֹנייה
+    note: mafligim b’oniyah
+  - english: sail in a sailing boat
+    hebrew: שׁטים בסירה
+    note: shatim b’sirah
+  - english: ride a bicycle
+    hebrew: רוֹכבים על אפניים
+    note: rokhvim al ofanáyim
+  - english: ride a horse
+    hebrew: רוֹכבים על סוּס
+    note: rokhvim al sus
+  - english: airplane
+    hebrew: מטוֹס
+    note: matos (m.)
+  - english: truck
+    hebrew: משׂאית
+    note: masa-it (f.)
+  - english: shared taxi
+    hebrew: שׁרוּת
+    note: sherut (f.)
+  - english: boat, ship
+    hebrew: אוֹנייה
+    note: oniyah (f.)
+  - english: sailing boat
+    hebrew: סירה
+    note: sirah (f.)
+  - english: horse
+    hebrew: סוּס
+    note: sus (m.)
+
+unit 8 - list 4:
+  - english: twelve months in the Hebrew calendar
+    hebrew: |
+      תשׁרי, חשׁוון, כסלו, טבת
+      שׁבט, אדר, ניסן, אייר, סיוון
+      תמוּז, אב, אלוּל
+    note: |
+      tishrey, kheshvan, kislev, tevet
+      shvat, adar, nisan, iyar, sivan
+      tamuz, av, elul
+  - english: extra month added every few years to catch up with the solar year
+    hebrew: אדר
+    note: adar
+  - english: Gregorian calendar
+    hebrew: |
+      ספטמבר, אוֹקטוֹבר, נוֹבמבר, דצמבר, ינוּאר, פברוּאר,
+      מרס/מרץ, אפריל, מאי, יוּני, יוּלי, אוֹגוּסט
+    note: |
+      september, oktober, november, detsember, yanu-ar, febru-ar,
+      mars/merts, april, may, yuni, yuli, ogust
+  - english: Autumn
+    hebrew: סתיו
+    note: stav
+  - english: Winter
+    hebrew: חוֹרף
+    note: khóref
+  - english: Spring
+    hebrew: אביב
+    note: aviv
+  - english: (early) Summer
+    hebrew: קיץ
+    note: káyits
+  - english: Independence Day
+    hebrew: יוֹם העצמאוּת
+    note: yom ha-atsma-ut
+  - english: Remembrance Day
+    hebrew: יוֹם הזיכרוֹן
+    note: yom ha’zikaron
+  - english: Holocaust day
+    hebrew: יוֹם השׁוֹאה
+    note: yom ha’sho-ah
+
+unit 9 - list 1:
+  - english: once
+    hebrew: פעם
+    note: pá-am (adv.)
+  - english: time
+    hebrew: פעם (פימים)
+    note: pá-am (pe-amim) (f.)
+  - english: apartment, flat
+    hebrew: דירה
+    note: dirah (f.)
+  - english: with
+    hebrew: עם
+    note: im
+  - english: bedroom
+    hebrew: חדר שׁינה
+    note: khadar shenah (m.)
+  - english: living room, reception
+    hebrew: חדר אוֹרחים
+    note: khadar orkhim (m.)
+  - english: shower, shower room
+    hebrew: מקלחת
+    note: miklákhat (f.)
+  - english: toilet(s)
+    hebrew: שׁרוּתים
+    note: sherutim (m., pl.)
+  - english: kitchen
+    hebrew: מטבח
+    note: mitbakh (m.)
+  - english: terrace, balcony
+    hebrew: מרפסת
+    note: mirpéset (f.)
+  - english: garden
+    hebrew: גינה
+    note: ginah (f.)
+  - english: I thought
+    hebrew: חשׁבתי (ח-שׁ-ב)
+    note: khashávti G1
+  - english: together
+    hebrew: ביחד
+    note: b’yákhad
+  - english: dining-room
+    hebrew: חדר אוֹכל
+    note: khadar okhel (m.)
+  - english: communal
+    hebrew: משׁוּתף(ת)
+    note: meshutaf (meshutefet, f.)
+  - english: when
+    hebrew: כשׁ...
+    note: kshe’...
+  - english: we grew up
+    hebrew: גדלנוּ (ג-ד-ל)
+    note: gadálnu G1
+  - english: with you (here. about you)
+    hebrew: איתך
+    note: itkha (im+atah)
+  - english: apartment block (lit. ‘communal house’)
+    hebrew: בית משׁוּתף
+    note: bayit meshutaf (m.)
+  - english: private (house)
+    hebrew: (בית) פרטי
+    note: (bayit) prati (m.)
+  - english: small house
+    hebrew: קוֹטג'
+    note: kotedge (m.)
+  - english: quite, enough
+    hebrew: די
+    note: day
+  - english: to play
+    hebrew: לשׂחק (שׂ-ח-ק)
+    note: le’sakhek G2
+  - english: football
+    hebrew: כדוּר רגל
+    note: kadur regel (m.)
+     
+unit 9 - list 2:
+  - english: key
+    hebrew: מפתח(וֹת)
+    note: mafté-akh (maftekhot, m., pl.)
+  - english: wallet
+    hebrew: ארנק
+    note: arnak (m.)
+  - english: last month
+    hebrew: בחוֹדשׁ שׁעבר
+    note: ba’khódesh she’avar
+  - english: yesterday
+    hebrew: אתמוֹל
+    note: etmol
+  - english: to move (apartment, house)
+    hebrew: לעבוֹר דירה
+    note: la’avor dirah
+  - english: cute, sweet
+    hebrew: חמוּד(ה)
+    note: khamud(-ah, f.)
+  - english: a teacher
+    hebrew: מוֹרה
+    note: moreh (morah, f.)
+  - english: of her (my, your...) own
+    hebrew: משׁלה (משׁלי, משׁלך)
+    note: mi’shelah (mi’sheli, mi’shelkha ...)
+  - english: centre
+    hebrew: מרכז
+    note: merkaz (m.)
+  - english: quiet
+    hebrew: שׁקט(ה)
+    note: shaket (shketah, f.)
+  - english: transport
+    hebrew: תחבוּרה
+    note: takhburah (f.)
+  - english: public
+    hebrew: ציבוּרי(ת)
+    note: tsiburi(-t, f.)
+  - english: parking
+    hebrew: חנייה
+    note: khanayah (f.)
+  - english: in my opinion
+    hebrew: לפי דעתי
+    note: l’fi da-ti
+  - english: corner
+    hebrew: פינה
+    note: pinah
+  - english: otherwise
+    hebrew: אחרת
+    note: akhéret
+
+unit 9 - list 3:
+  - english: tell(s)
+    hebrew: מספרת (ס-פ-ר)
+    note: mesaperet
+  - english: sea
+    hebrew: ים
+    note: yam (m.)
+  - english: huge
+    hebrew: ענקי(ת)
+    note: anaki(-t, f.)
+  - english: view, landscape, scenery
+    hebrew: נוֹפ
+    note: nof (m.)
+  - english: splendid
+    hebrew: מקסים(ה)
+    note: maksim(-ah, f.)
+  - english: in it (lit. ‘in her’)
+    hebrew: בה
+    note: bah (b’+hi ending)
+  - english: (walking) distance
+    hebrew: מרחק
+    note: merkhak (m.)
+  - english: walking; journey on foot
+    hebrew: הליכה
+    note: halikhah (f.)
+  - english: that’s it
+    hebrew: זהוּ
+    note: zéhu
+  - english: wonderful
+    hebrew: נהדר(ת)
+    note: nehedar (nehederet, f.)
+  - english: it’s true that, indeed
+    hebrew: אמנם
+    note: omnam
+  - english: a separate toilet (lit. ‘separate services’)
+    hebrew: שׁירוּתים נפרדים
+    note: sherutim nifradim
+  - english: a little, quite
+    hebrew: קצת
+    note: ktsat
+  - english: door
+    hebrew: דלת
+    note: delet (dlatot, f.)
+  - english: exit
+    hebrew: יציאה
+    note: yetsi-ah (f.)
+  - english: entrance
+    hebrew: כניסה
+    note: knisah (f.)
+  - english: workroom, study
+    hebrew: חדר עבוֹדה
+    note: khadar avodah (m.)
+  - english: well?
+    hebrew: נוּ?
+    note: nu
+  - english: to tell
+    hebrew: לספר
+    note: le'saper
+  - english: to find
+    hebrew: למצוֹא
+    note: li'mtso
+  - english: always
+    hebrew: תמיד
+    note: tamid
+  - english: bathroom
+    hebrew: אמבטיה
+    note: ambatyah
+  - english: side
+    hebrew: צד
+    note: tsad (tsdadim, m.)
+  - english: on the other hand (lit. on second side)
+    hebrew: מצד שׁני
+    note: mi'tsad shney
+  - english: to prefer (G.3)
+    hebrew: להעדיף
+    note: l'ha-adif
+
+unit 9 - list 4:
+  - english: volunteer
+    hebrew: מתנדב
+    note: mitnadev(-et,f)
+  - english: what about you (f.)?
+    hebrew: מה איתך?
+    note: mah itakh?
+  - english: ulpan (intensive Hebrew course)
+    hebrew: אוּלפן
+    note: ulpan (m.)
+  - english: in the mornings
+    hebrew: בבקרים
+    note: ba’bkarim
+  - english: kindergarten, nursery
+    hebrew: גן הילדים
+    note: gan yeladim (m.)
+  - english: laundry
+    hebrew: מכבסה
+    note: mikhbasah (f.)
+  - english: to pass
+    hebrew: להעביר (ע-ב-ר)
+    note: l’ha-avir G3
+  - english: salt
+    hebrew: מלח
+    note: melakh (m.)
+  - english: cook
+    hebrew: טבח
+    note: tabakh (m.)
+  - english: (factory) manager
+    hebrew: מנהל(ת)
+    note: menahel(-et, f.)
+  - english: factory
+    hebrew: (ה)מפעל
+    note: mif-al (m.)
+  - english: farm = kibbutz
+    hebrew: משׁק
+    note: méshek (m.)
+  - english: about you (m.)
+    hebrew: עליך
+    note: alékha (al+ atah)
+  - english: from Jerusalem (adj.)
+    hebrew: ירוּשׁלמיי(ת)
+    note: yerushálmi(-t, f.)
+  - english: electricity
+    hebrew: חשׁמל
+    note: khashmal
+  - english: electrician
+    hebrew: חשׁמלאי(ת)
+    note: khashmelay(-a-it, f.)
+  - english: nimble, agile
+    hebrew: זריז(ה)
+    note: zariz(-ah, f.)
+  - english: come on
+    hebrew: יאללה
+    note: y-alah! (Arabic)
+  - english: don’t exaggerate
+    hebrew: אל תגזים
+    note: al tagzim
+  - english: usually
+    hebrew: בדרך כלל
+    note: b’dérekh klal
+  - english: solve(s)
+    hebrew: פוֹתר (פ-ת-ר)
+    note: poter G1
+  - english: to move
+    hebrew: לזוּז (ז-וּ-ז)
+    note: la’zuz G1
+  - english: to show
+    hebrew: להראוֹת (ר-א-ה)
+    note: l’har-ot G3
+     
+unit 9 - professions:
+  - english: profession(s)
+    hebrew: מקצוֹע(וֹת)
+    note: miktsó-a/miktso-ot(m./pl.)
+  - english: occupation
+    hebrew: עיסוּק
+    note: isuk (m.)
+  - english: journalist
+    hebrew: עיתוֹנאי(ת)
+    note: itonay(-it, f.)
+  - english: newspaper
+    hebrew: עיתוׁן
+    note: iton (m.)
+  - english: mechanic
+    hebrew: מכוֹנאי(ת)
+    note: mekhonay(-it, f.)
+  - english: machine
+    hebrew: מכוֹנה
+    note: mekhonah (f.)
+  - english: electrician
+    hebrew: חשׁמלאי(ת)
+    note: khashmelay(-it, f.)
+  - english: electricity
+    hebrew: חשׁמל
+    note: khashmal (m.)
+  - english: policeman
+    hebrew: שׁוֹטר(ת)
+    note: shoter(-et, f.)
+  - english: police
+    hebrew: משׁטרה
+    note: mishtarah (f.)
+  - english: labourer
+    hebrew: פוֹעל(ת)
+    note: po-el(-et, f.)
+  - english: action
+    hebrew: פעוּלה
+    note: pe-ulah (f.)
+  - english: goalkeeper/doorman
+    hebrew: שׁוֹער(ת)
+    note: sho-er(-et, f.)
+  - english: gate
+    hebrew: שׂער
+    note: shá-ar (m.)
+  - english: pianist
+    hebrew: פסנתרן(ית)
+    note: psantran(-it, f.)
+  - english: piano
+    hebrew: פסנתר
+    note: psanter (m.)
+  - english: ticket seller
+    hebrew: כרטיסן(ית)
+    note: kartisan(-it, f.)
+  - english: kartis (m.)
+    hebrew: כרטיס
+    note: ticket
+  - english: cook
+    hebrew: טבח(ית)
+    note: tabakh(-it, f.)
+  - english: kitchen
+    hebrew: מטבח
+    note: mitbakh (m.)
+  - english: hairdresser
+    hebrew: ספר(ית)
+    note: sapar(-it, f.)
+  - english: hairdressers’
+    hebrew: מספרה
+    note: misparah (f.)
+  - english: politician
+    hebrew: פוֹליטיקאי
+    note: politikay
+  - english: gardener
+    hebrew: גנן
+    note: ganan
+  - english: fisherman
+    hebrew: דייג
+    note: dayag
+  - english: pilot
+    hebrew: טייס
+    note: tayas
+  - english: watchmaker
+    hebrew: שׁען
+    note: she-an
+  - english: soloist
+    hebrew: סוֹלן
+    note: solan
+  - english: banker
+    hebrew: בנקאית
+    note: bankayit (f.)
+  - english: greengrocer
+    hebrew: ירקן
+    note: yarkan
+  - english: actor/player
+    hebrew: שׂחקן
+    note: sakhkan
+  - english: cashier
+    hebrew: קוּפאי
+    note: kupay
+  - english: writer
+    hebrew: סוֹפרת
+    note: soferet (f.)
+  - english: What do you do?
+    hebrew: מה אתה עוֹשׂה?
+    note: ma atah oseh?
+  - english: What is your occupation?
+    hebrew: במה אתה עוֹבד/עוֹסק?
+    note: bameh atah oved/osek
+  - english: What is your profession/occupation?
+    hebrew: מה המקצוֹע שׁלך?
+    note: mah ha’miktsó-a shelkha?
+
+unit 10 - list 1:
+  - english: understand(s)
+    hebrew: מבין (ב-י-ן)
+    note: mevin G3
+  - english: I returned, came back
+    hebrew: חזרתי (ח-ז-ר)
+    note: khazárti G1
+  - english: the Far East
+    hebrew: המזרח הרחוֹק
+    note: ha’misrakh ha’rakhok
+  - english: army (defence force of Israel)
+    hebrew: צבא (צה''ל)
+    note: tsava (m.) (tsakhal – tsva ha’ganah l’israel)
+  - english: orchard, citrus grove
+    hebrew: פרדס
+    note: pardes (m.)
+  - english: school
+    hebrew: בית ספר
+    note: beyt séfer (m.)
+  - english: laboratory
+    hebrew: מעבדה
+    note: ma-abadah (f.)
+  - english: chemistry
+    hebrew: כימיה
+    note: khimiyah (f.)
+  - english: like you
+    hebrew: כמוֹכם
+    note: kmokhem (kmo+atem)(m., pl.)
+  - english: to enjoy
+    hebrew: מבלים (ב-ל-ה)
+    note: mevalim G2
+  - english: hall
+    hebrew: אוּלם
+    note: ulam (m.)
+  - english: swimming pool
+    hebrew: בריכה
+    note: brekhah (f.)
+  - english: orchestra
+    hebrew: תזמוֹרת
+    note: tizmóret (f.)
+  - english: choir
+    hebrew: מקהלה
+    note: mak-helah (f.)
+  - english: all kinds of
+    hebrew: כל מיני
+    note: kol miney
+  - english: club
+    hebrew: חוּג
+    note: khug (m.)
+  - english: drama
+    hebrew: דרמה
+    note: drama (f.)
+  - english: drawing, painting
+    hebrew: ציוּר
+    note: tsiyur (m.)
+  - english: dance
+    hebrew: ריקוּד
+    note: rikud (m.)
+  - english: it sounds (lit. ‘it is heard’)
+    hebrew: נשׁמע
+    note: nishma
+  - english: ideal
+    hebrew: אידאלי(ת)
+    note: ide-áli(-t, f.)
+  - english: Iraq
+    hebrew: עיראק
+    note: irak
+  - english: dream
+    hebrew: חלוֹם
+    note: khalom (m.)
+  - english: to build
+    hebrew: לבנוֹת (ב-נ-ה)
+    note: li’vnot G1
+  - english: Garden of Eden
+    hebrew: גן-עדן
+    note: gan-éden
+  - english: in the meantime
+    hebrew: בינתיים
+    note: benatáyim
+  - english: hope
+    hebrew: תקווה
+    note: tikvah (f.)
+
+unit 10 - verbal nouns:
+  - english: to continue
+    hebrew: להמשׁיך (מ-שׁ-ך)
+    note: l'hamshikh (G3)
+  - english: continuation
+    hebrew: המשׁך
+    note: hemshek
+  - english: to understand
+    hebrew: להבין (ב-י-ן)
+    note: l'havin (G3)
+  - english: understanding
+    hebrew: הבנה
+    note: havanah
+  - english: he sat
+    hebrew: ישׁב
+    note: yashav (G1)
+  - english: a sitting, meeting
+    hebrew: ישׁיבה
+    note: yeshivah
+  - english: he thought
+    hebrew: חשׁב
+    note: khashav (G1)
+  - english: thinking
+    hebrew: חשׁיבה
+    note: khashivah
+  - english: he walked
+    hebrew: הלך
+    note: halakh (G1)
+  - english: walking
+    hebrew: הליכה
+    note: halikhah
+  - english: he drew
+    hebrew: צייר
+    note: tsiyer (G2)
+  - english: a drawing
+    hebrew: ציוּר
+    note: tsiyur
+  - english: he talked
+    hebrew: דיבר
+    note: diber (G2)
+  - english: speech, a talk
+    hebrew: דיבוּר
+    note: dibur
+  - english: he ordered, invited
+    hebrew: הזמין
+    note: hizmin (G3)
+  - english: an order, invitation
+    hebrew: הזמנה
+    note: hazmanah
+  - english: he suggested
+    hebrew: הציע
+    note: hitsiya (G3)
+  - english: a sugestion
+    hebrew: הצעה
+    note: hatsa-ah
+
+unit 10 - list 2:
+  - english: nation, folk
+    hebrew: עם
+    note: am (m.)
+  - english: to sing
+    hebrew: לשׁיר (שׁ-י-ר)
+    note: la’shir G1
+  - english: to swim
+    hebrew: לשׂחוֹת (שׂ-ח-ה)
+    note: li’skhot G1
+  - english: to play (an instrument)
+    hebrew: לנגן (נ-ג-ן)
+    note: le’nagen G2
+  - english: to be
+    hebrew: להיוֹת (ה-י-ה)
+    note: li’hyot G1
+  - english: I had
+    hebrew: היה לי
+    note: haya li
+  - english: I needed
+    hebrew: הייתי צריך
+    note: hayiti tsarikh
+  - english: I need
+    hebrew: אני מוּכרח
+    note: ani mukhrakh
+  - english: I needed
+    hebrew: הייתי מוּכרח
+    note: hayiti mukhrakh
+  - english: band
+    hebrew: להקה
+    note: lahakah (f.)
+  - english: I feel like it
+    hebrew: ישׁ לי חשׁק
+    note: yesh li khéshek (m.)
+  - english: surprise
+    hebrew: הפתעה
+    note: hafta-ah (f.)
+  - english: chair
+    hebrew: כיסא(וֹת)
+    note: kise (m.) (kis-ot, pl.)
+  - english: performance
+    hebrew: הוֹפעה
+    note: hofa-ah (f.)
+  - english: to be happy
+    hebrew: לשׂמוֹח (שׂ-מ-ח)
+    note: li’smó-akh G1
+  - english: worth
+    hebrew: שׁווה
+    note: shaveh (unchanging)
+  - english: before, previously
+    hebrew: מקוֹדם
+    note: mi’kódem
+
+unit 10 - list 3:
+  - english: period, time
+    hebrew: תקוּפה
+    note: tkufah (f.)
+  - english: Crusader
+    hebrew: צלבן
+    note: tsalban (m.)
+  - english: (lit. ‘owner of’) importance
+    hebrew: (בעל) חשׁיבוּת
+    note: (ba-al) khashivut (f.)
+  - english: strategic
+    hebrew: אסטרטגי(ת)
+    note: estrategi(-t, f.)
+  - english: rule, reign, government
+    hebrew: שׁלטוֹן
+    note: shilton (m.)
+  - english: settled (lit. ‘sat themselves’)
+    hebrew: התיישׁבוּ (י-שׁ-ב)
+    note: hityashvu G4 
+  - english: a Jew(ess)
+    hebrew: יהוּדי(ה)
+    note: yehudi(-ah, f.)
+  - english: she turned into, became
+    hebrew: הפכה (ה-פ-ך)
+    note: hafkhah G1
+  - english: cultural
+    hebrew: תרבוּתי
+    note: tarbuti(-t, f.)
+  - english: spiritual
+    hebrew: רוּחני
+    note: rukhani(-t, f.)
+  - english: (they) lived
+    hebrew: חייוּ (ח-י-ה)
+    note: khayu G1
+  - english: rabbi(s)
+    hebrew: רב(נים)
+    note: rav (rabanim, m. pl.)
+  - english: well-known
+    hebrew: ידוּעים
+    note: yadu-a (yedu-ah, f.) (-im,-ot)
+  - english: Kabbalist
+    hebrew: קבליסט
+    note: kabalist (m.)
+  - english: in the name of
+    hebrew: על שׁם
+    note: al shem
+  - english: is situated (lit. ‘is found’)
+    hebrew: נמצא (נמצאת)
+    note: nimtsa (nimtset, f.)
+  - english: alley, lane
+    hebrew: סמטה(אוֹת)
+    note: simtah (simta-ot, f.)
+  - english: old, ancient
+    hebrew: עתיק(ה)
+    note: atik(-ah,f.)
+  - english: to be interested in (lit. ‘to interest oneself in’)
+    hebrew: מתעניין
+    note: mit-anien G4
+  - english: nevertheless
+    hebrew: בכל זאת
+    note: b’khol zot
+  - english: brought
+    hebrew: הביא (ב-ו-א)
+    note: hevi G3
+  - english: community
+    hebrew: קהילה
+    note: kehilah (f.)
+  - english: artistic
+    hebrew: אמנוּתי(ת)
+    note: amanuti(-t, f.)
+
+unit 10 - group 4 verbs:
+  - english: to sit
+    hebrew: לשׁבת (י-שׁ-ב)
+    note: la’shevet (G1)
+  - english: to settle
+    hebrew: להתיישׁב (י-שׁ-ב)
+    note: l'hityashev (G4)
+  - english: to wear
+    hebrew: ללבוֹשׁ (ל-ב-שׁ)
+    note: li'lbosh (G1)
+  - english: to dress (oneself)
+    hebrew: להתלבשׁ (ל-ב-שׁ)
+    note: l'hitlabesh (G4)
+  - english: to cook
+    hebrew: לבשׁל (ב-שׁ-ל)
+    note: le'vashel (G2)
+  - english: to cook itself
+    hebrew: להתבשׁל (ב-שׁ-ל)
+    note: l'hitbashel (G4)
+  - english: to look at, to watch
+    hebrew: להסתכל (ס-כ-ל)
+    note: l'histakel b... (G4)
+  - english: to get old
+    hebrew: להזדקן (ז-ק-ן)
+    note: l'hizdaken (G4)
+  - english: to try hard
+    hebrew: להשׁתדל (שׁ-ד-ל)
+    note: l'hishtadel (G4)
+  - english: to be sorry
+    hebrew: להצטער (צ-ע-ר)
+    note: l'hitsta-er (G4)
+
+unit 10 - list 4:
+  - english: dear
+    hebrew: יקר(ה)
+    note: yakar(-ah, f.)
+  - english: coast
+    hebrew: חוֹף
+    note: khof (m.)
+  - english: village
+    hebrew: כפר
+    note: kfar (m.)
+  - english: Druze
+    hebrew: דרוּזי(ת)
+    note: druzi(-t, f.)
+  - english: a few, several
+    hebrew: כמה
+    note: kamah
+  - english: they explained
+    hebrew: הסבירוּ (ס-ב-ר)
+    note: hisbíru G3
+  - english: citizen
+    hebrew: אזרח(ית)
+    note: ezrakh(-it, f.)
+  - english: (to be) obliged
+    hebrew: חייב(ת)
+    note: khayav (khayevet, f.)
+  - english: military
+    hebrew: צבאי(ת)
+    note: tsva-i(-t, f.)
+  - english: picturesque
+    hebrew: ציוּרי(ת)
+    note: tsiyuri(-t, f.)
+  - english: northern
+    hebrew: צפוֹני
+    note: tsfoni(-t, f.)
+  - english: ruin, remains
+    hebrew: שׂריד
+    note: sarid (sridim, m. pl.)
+  - english: Byzantine
+    hebrew: ביזנטי(ת)
+    note: bizanti(-t, f.)
+  - english: southwards
+    hebrew: דרוֹמה
+    note: darómah
+  - english: in which
+    hebrew: שׁבּוֹ
+    note: she’bo
+  - english: he preached
+    hebrew: הטיף (נ-ט-ף)
+    note: hetif G3
+  - english: we washed, bathed
+    hebrew: התרחצנוּ (ר-ח-ץ)
+    note: hitrakhátsnu G4
+  - english: (water) spring
+    hebrew: מעיין (מעיינוֹת)
+    note: ma-ayan (m.) ma-ayanot (pl.)
+  - english: they worry
+    hebrew: דוֹאגים (ד-א-ג)
+    note: do-agim G1
+  - english: water level
+    hebrew: מפלס מים
+    note: miflas mayim
+  - english: rain (falls, goes down)
+    hebrew: (יוֹרד) גשׁם
+    note: (yored) geshem (m.)
+  - english: gave, allowed
+    hebrew: נתנוּ (נ-ת-ן)
+    note: natnu G1 (irr.)
+  - english: to go in, enter
+    hebrew: להיכנס
+    note: l’hikanes
+  - english: church
+    hebrew: כנסייה
+    note: knesiyah (f.)
+  - english: even though
+    hebrew: למרוֹת שׁ...
+    note: lamrot she’...
+  - english: break, interval
+    hebrew: הפסקה
+    note: hafsakah (f.)
+  - english: hope(s)
+    hebrew: מקווה (ק-ו-ה)
+    note: mekaveh G2
+  - english: greetings, regards
+    hebrew: דרישׁת שׁלום
+    note: drishat shalom
+  - english: kiss
+    hebrew: נשׁיקה
+    note: neshikah (f.)
+  - english: although
+    hebrew: למרוֹת שׁ...
+    note: lamrot she'...
+  - english: because
+    hebrew: מפני שׁ.../כי
+    note: mipney she'.../ki
+  - english: before
+    hebrew: לפני שׁ...
+    note: lifney she'
+  - english: after
+    hebrew: אחרי שׁ...
+    note: akharey she'
+  - english: when
+    hebrew: כאשׁר/כשׁ...
+    note: ka-asher/kshe'
+  - english: most
+    hebrew: רב
+    note: rov
+  - english: to leave
+    hebrew: לעזוֹב (ע-ז-ב)
+    note: la’azov
+  - english: they left
+    hebrew: עוֹזבים
+    note: ozvim
+  - english: free
+    hebrew: פנוּיה
+    note: panuy
+  - english: to descend
+    hebrew: לרדת (י-ר-ד)
+    note: la’rédet
+  - english: to give, allow
+    hebrew: לתת (נ-ת-ן)
+    note: la’tet
+  - english: to return
+    hebrew: לחזוֹר (ח-ז-ר)
+    note: la’khazor
+
+unit 11 - list 1:
+  - english: traffic
+    hebrew: תנועה
+    note: tnu-ah (f.)
+  - english: we will arrive
+    hebrew: נגיע (נ-ג-ע)
+    note: nagiy-a G3
+  - english: to wait
+    hebrew: לחכוֿת (ח-כ-ה)
+    note: le'khakot G2
+  - english: enters
+    hebrew: נכנס
+    note: nikhnas
+  - english: eye(s)
+    hebrew: עין (עיניים)
+    note: ayin (enáyim, f.-pl.)
+  - english: oil
+    hebrew: שֿמן
+    note: shémen (m.)
+  - english: salty, salted
+    hebrew: מלוח(ה)
+    note: malu-akh (melukhah, f.)
+  - english: experience
+    hebrew: חוויה
+    note: khavayah (f.)
+  - english: picture
+    hebrew: תמונה
+    note: tmunah (f.)
+  - english: float
+    hebrew: צף (צ-ו-ף)
+    note: tsaf G1
+  - english: read(s)
+    hebrew: קורא
+    note: kore G1
+  - english: otherwise
+    hebrew: אחרת
+    note: akhéret
+  - english: they will believe
+    hebrew: יאמינו (א-מ-ן)
+    note: ya-amínu
+  - english: you(m.) will believe
+    hebrew: תאמין
+    note: ta-amin
+  - english: promises(s)
+    hebrew: מבטיחה (ב-ט-ח)
+    note: mavtikhah G3
+  - english: I will photograph
+    hebrew: אצלם (ע-צ-ם)
+    note: atsalem G2
+  - english: happened
+    hebrew: קרה (ק-ר-ה(
+    note: karah G1
+  - english: you(f.) stopped
+    hebrew: עצרת (ע-צ-ר)
+    note: atsart G1
+  - english: we will / let's continue
+    hebrew: נמשֿיח (מ-שֿ-ך)
+    note: namshikh G3
+  - english: we will ask, request
+    hebrew: נבקשֿ (ב-ק-שֿ)
+    note: nevakesh G2
+  - english: help
+    hebrew: עזרה
+    note: ezrah (f.)
+  - english: I will have to, need
+    hebrew: אצטרך
+    note: etstarekh G4
+  - english: is dying, dead
+    hebrew: מת(ה)
+    note: met(-ah) (irregular)
+  - english: we brought
+    hebrew: הבאנו (ב-וֿ-א)
+    note: hevénu G3
+  - english: broken
+    hebrew: מקולקל(ת)
+    note: mekulkal (mekulkélet, f.)
+
+
+unit 11 - list 2:
+  - english: you (f.) will say, tell
+    hebrew: תגידי (י-ג-ד)
+    note: tagidi G3
+  - english: he will say, tell
+    hebrew: יגיד
+    note: yagid
+  - english: guilty
+    hebrew: אשֿם(ה)
+    note: ashem(-ah, f.)
+  - english: engine
+    hebrew: מנוֿע
+    note: mano-a (m.)
+  - english: (you (f.)) look!
+    hebrew: תראי (ר-א-ה)
+    note: tir-i G1
+  - english: stand(s)
+    hebrew: עוֿמד (ע-מ-ד)
+    note: omed G1
+  - english: sheep
+    hebrew: כבש
+    note: kéves (m.)
+  - english: a Bedouin shepherd
+    hebrew: רוֿעה בדואי
+    note: ro-eh bedu-i (m.)
+  - english: miracle
+    hebrew: נס
+    note: nes (m.)
+  - english: he will help
+    hebrew: יעזור (ע-ז-ר)
+    note: ya-azor G1
+  - english: you(m./sing.) will run
+    hebrew: תרוץ (ר-ו-ץ)
+    note: taruts G1
+  - english: run(s) away
+    hebrew: בורח (ב-ר-ח)
+    note: boré-akh G1
+  - english: someone
+    hebrew: מישֿהו
+    note: míshehu
+  - english: I will get in touch
+    hebrew: אתקשֿר
+    note: etkasher G4
+  - english: (you, m./sing.) listen
+    hebrew: תקשֿיב (ק-שֿ-ב)
+    note: takshiv G3
+  - english: (don’t) open (you, m./sing.)
+    hebrew: (אל) תפתח (פ-ת-ח)
+    note: (al) tiftakh G1
+  - english: cover
+    hebrew: מכסה
+    note: mikhseh (m.)
+  - english: (he, it) will cool down
+    hebrew: יתקרר
+    note: yitkarer G4
+  - english: (you, m./sing.) will check, examine
+    hebrew: תבדוק (ב-ד-ק)
+    note: tivdok G1
+  - english: just a moment, immediately
+    hebrew: תכף
+    note: tékhev
+  - english: container, tank
+    hebrew: מיכל
+    note: meykhal (m.)
+  - english: empty
+    hebrew: ריק(ה)
+    note: reyk(-ah, f.)
+  - english: (you, m./sing.) will fill
+    hebrew: תמלא (מ-ל-א)
+    note: temale G2
+  - english: with care, carefully
+    hebrew: בזהירות
+    note: bi’zhirut
+ 
+ 
+ 
+unit 11 - list 3:
+  - english: to feed
+    hebrew: להאכיל (א-כ-ל)
+    note: l’ha-akhil G3
+  - english: cat
+    hebrew: חתול
+    note: khatul (m.)
+  - english: to leave
+    hebrew: להשאיר
+    note: l’hash-ir G3
+  - english: airport
+    hebrew: שדה התעופה
+    note: sdeh ha’te-ufah (m.)
+  - english: to take out
+    hebrew: להותיע
+    note: l’hotsi G3
+  - english: rubbish
+    hebrew: אשֿפה
+    note: ashpah (f.)
+
+unit 11 - list 4:
+  - english: announcer, broadcaster
+    hebrew: קריין(ת)
+    note: karayan(-it,f.)
+  - english: forecast
+    hebrew: תחזית
+    note: takhzit (f.)
+  - english: hot dry weather
+    hebrew: שֿרב
+    note: sharav (f.)
+  - english: will be continuing
+    hebrew: יימשֿך
+    note: yimashekh
+  - english: region
+    hebrew: איזוֿר
+    note: eyzor (m.)
+  - english: expected
+    hebrew: צפוי(ה)
+    note: tsafuy (tsfuyah,f.)
+  - english: descent, drop
+    hebrew: ירידה
+    note: yeridah (f.)
+  - english: between
+    hebrew: בין
+    note: beyn
+  - english: degrees
+    hebrew: מעלוֿת
+    note: ma-alot
+  - english: Celsius
+    hebrew: צלסיוס
+    note: tselsius
+  - english: he/it will be
+    hebrew: יהייה
+    note: yihiyeh
+  - english: heat
+    hebrew: חום
+    note: khom (m.)
+  - english: nerve
+    hebrew: עצב
+    note: atsav (atsabim,m.)
+  - english: mad
+    hebrew: משֿוגע(ת)
+    note: meshuga(-t,f.)
+  - english: air conditioning
+    hebrew: מיזוג אוויר
+    note: mizug avir (m.)
+  - english: many
+    hebrew: המון
+    note: hamon (adverb)
+  - english: accident
+    hebrew: תאונה
+    note: te-unah (f.)
+  - english: road accidents
+    hebrew: תאונות דרכים
+    note: te-unot drakhim
+  - english: law
+    hebrew: חוק
+    note: khok (m.)
+  - english: behave(s), conduct(s) himself
+    hebrew: מתנהג (נ-ה-ג)
+    note: mitnaheg G4
+  - english: I wish! if only!
+    hebrew: הלואי!
+    note: halevay
+  - english: for example
+    hebrew: למשֿל
+    note: l’mashal
+  - english: danger
+    hebrew: סכנה
+    note: sakanah (f.)
+  - english: flood, downpour
+    hebrew: שֿיטפוֿן(ות)
+    note: shitafon (shitfonot, m.)
+  - english: heavy
+    hebrew: כבד(ה)
+    note: kaved (kvedah, f.)
+  - english: at least
+    hebrew: לפחוֿת
+    note: l’fakhot
+  - english: with/at us (in our home, country, etc.)
+    hebrew: אצלינו
+    note: etsléynu (etsel + anákhnu)
+
+unit 11 - list 5:
+  - english: cloud(s)
+    hebrew: ענן
+    note: anan (m.)
+  - english: cloudy
+    hebrew: יהייה מעונה
+    note: me-unan
+  - english: rainy
+    hebrew: יהייה גשֿום
+    note: gashum
+  - english: snow
+    hebrew: ירד שֿלג
+    note: shéleg (m.)
+  - english: pleasant weather
+    hebrew: יהייה מזג אוויר נאה
+    note: mézeg avir na-eh
+  - english: comfortable, high, low temperature(s)
+    hebrew: הטמפרטורות נוֿחוֿת, גבוֿהוֿת, נמוכות
+    note: temperatúrot nokhot, gvohot, nemukhot
+  - english: light rain
+    hebrew: ירד גשֿם קל
+    note: géshem kal
+  - english: heavy rain, downpour
+    hebrew: ירד גשֿם שֿוֿטף
+    note: géshem shotef
+  - english: wind
+    hebrew: רוח
+    note: rú-akh (f.)
+  - english: a strong, west wind
+    hebrew: תהייה רוח חזקה
+    note: rú-akh khazakah
+  - english: hot dry weather
+    hebrew: שֿרב/יהייה מזג אויר שֿרבי
+    note: sharav/mézeg avir shravi
+  - english: dry
+    hebrew: יהייה יבשֿ
+    note: yavesh
+  - english: heat wave (from the desert)
+    hebrew: יהייה חמסין
+    note: khamsin
+  - english: high/low humidity
+    hebrew: תהייה לחות גבוֿהה/נמוכה
+    note: lakhut (f.) gvohah/nemukhah
+  - english: sun/will be sunny during the morning
+    hebrew: תהייה שֿמשֿ בשֿעות הבוֿקר
+    note: shémesh b’sh-ot ha’bóker
+
+unit 12 - list 1:
+  - english: nurse (sister)
+    hebrew: אחוֿת
+    note: akhot (f.)
+  - english: patient (noun), ill (adjective)
+    hebrew: חוֿלה
+    note: kholeh (kholah, f.)
+  - english: sign
+    hebrew: שֿלט
+    note: shélet (m.)
+  - english: dog
+    hebrew: כלב
+    note: kélev (klavim, m.)
+  - english: poor thing, wretched
+    hebrew: מסכן(ה)
+    note: misken(-ah, f.)
+  - english: clean
+    hebrew: נקי(ה)
+    note: naki (nekiyah, f.)
+  - english: on his own
+    hebrew: לבדוֿ
+    note: levado (levad + hu)
+  - english: next time
+    hebrew: בפעם הבאה
+    note: ba’pá-am ha’ba-ah
+  - english: tie! (you, m./sing.)
+    hebrew: קשֿוֿר (ק-שֿ-ר)
+    note: kshor
+  - english: outside
+    hebrew: בחוץ
+    note: ba’khuts
+  - english: feeling; emotion
+    hebrew: רגשֿ(וֿת)
+    note: régesh (ragashot, m.)
+  - english: shade, shadow(s)
+    hebrew: צל (צללים)
+    note: tsel (tslalim, m.)
+  - english: form
+    hebrew: טוֿפס
+    note: tófes (tfasim, m.)
+  - english: enter
+    hebrew: נכנס
+    note: nikhnas
+  - english: pain, ache
+    hebrew: כאב
+    note: ke-ev (m.)
+  - english: head
+    hebrew: ראשֿ
+    note: rosh (m.)
+  - english: it hurts me
+    hebrew: כוֿאב לי
+    note: ko-ev li
+  - english: stomach, belly
+    hebrew: בטן
+    note: béten (f.)
+  - english: nausea
+    hebrew: בחילה
+    note: bekhilah (f.)
+  - english: bed
+    hebrew: מיטה
+    note: mitah (f.)
+  - english: to guess
+    hebrew: לנחשֿ (נ-ח-שֿ)
+    note: l’nakhesh G2
+  - english: (to be) used (to)
+    hebrew: רגיל(ה) +ל…
+    note: ragil (regilah, f.) + l’…
+  - english: instead of
+    hebrew: במקוֿם
+    note: bimkom
+ 
+unit 12 - list 2:
+  - english: body
+    hebrew: גוף
+    note: guf (m.)
+  - english: head
+    hebrew: ראשֿ
+    note: rosh (m.)
+  - english: back
+    hebrew: גב
+    note: gav(m.)
+  - english: hand(s)
+    hebrew: יד(יים)
+    note: yad (-áyim) (f.)
+  - english: finger
+    hebrew: אצבע(וֿת)
+    note: étsba (m.)
+  - english: leg(s)/foot (feet)
+    hebrew: רגל(יים)
+    note: regel(-áyim) (f.)
+  - english: eye(s)
+    hebrew: עין (עיניים)
+    note: áyin (eynáyim f.)
+  - english: nose
+    hebrew: אף
+    note: af (m.)
+  - english: ear(s)
+    hebrew: אוֿזן (אזניים)
+    note: ozen (oznáyim, f.)
+  - english: throat
+    hebrew: גרוֿן
+    note: garon(m.)
+  - english: tooth/teeth
+    hebrew: שֿן (שֿיניים)
+    note: shen (shináyim, f.)
+  - english: mouth
+    hebrew: פה
+    note: peh (m.)
+  - english: I’m bleeding from…
+    hebrew: יוֿרג לי דם מ…
+    note: yored li dam mi’…
+  - english: blood
+    hebrew: דם
+    note: dam(m.)
+
+unit 12 - list 3:
+  - english: the main thing, essence
+    hebrew: העיקר
+    note: ha’ikar (m.)
+  - english: urgent
+    hebrew: דחוף(ה)
+    note: dakhuf (dkhufah, f.)
+  - english: fever
+    hebrew: חוֿם
+    note: khom (m.)
+  - english: |
+      [to have] a cold
+    hebrew: מצונן(ת)
+    note: metsunan (metsunénet, f.)
+  - english: cough(s) (verb)
+    hebrew: משֿתעלת
+    note: mishta-elet G4
+  - english: flu
+    hebrew: שֿפעת
+    note: shapa-at (f.)
+  - english: what for
+    hebrew: בשֿביל מה
+    note: bishvil mah
+  - english: thermometer
+    hebrew: מדחוֿם
+    note: madkhom (m.)
+  - english: to sleep
+    hebrew: לישֿוֿן
+    note: li’shon G1 (irr.)
+  - english: tablet/pill
+    hebrew: כדור
+    note: kadour (m.)
+  - english: against
+    hebrew: נגד
+    note: néged
+ 
+
+unit 12 - list 4:
+  - english: to enter
+    hebrew: להיכנס
+    note: l’hikanes G5
+  - english: next to you
+    hebrew: לידך
+    note: l’yadkha (l’yad + atah)
+  - english: I was careful
+    hebrew: נזהרתי (ז-ה-ר)
+    note: niz-hárti G5
+  - english: intend(s)
+    hebrew: מתכוון (כ-ו-ן)
+    note: mitkaven G4
+  - english: to stay
+    hebrew: להישֿאר
+    note: l’hisha-er G5
+  - english: I have met
+    hebrew: נפגשֿתי
+    note: nivgáshti G5
+  - english: impertinence, cheek
+    hebrew: חוצפה
+    note: khutspah (f.)
+  - english: from him
+    hebrew: ממנו
+    note: miménu (mi’ + hu)
+  - english: absolutely, certainly
+    hebrew: בהחלט
+    note: b’hekhlet
+  - english: in any event
+    hebrew: בכל מקרה
+    note: b’khol mikreh
+  - english: for me
+    hebrew: בשֿבילי
+    note: bishvili (bishvil + ani)
+  - english: to him
+    hebrew: אליו
+    note: elav (el + hu)
+  - english: give(s) up
+    hebrew: מוותר
+    note: mevater G2
+  - english: easily, with ease
+    hebrew: בקלות
+    note: b’kalut
+  - english: a speedy recovery!
+    hebrew: החלמה מהירה!
+    note: hakhlamah mehirah
+ 
+unit 12 - list 5:
+  - english: thirsty
+    hebrew: צמא
+    note: tsame(-ah, f.)
+  - english: white
+    hebrew: לבן(ה)
+    note: lavan (levanah, f.)
+  - english: nevertheless
+    hebrew: בכל זאת
+    note: b’khol zot
+  - english: to approach, go near
+    hebrew: להתקרב (ק-ר-ב)
+    note: l’hitkarev G4
+  - english: grateful
+    hebrew: אסיר(ה) תוֿדה
+    note: asir(-at, f.) todah
+  - english: he nodded
+    hebrew: הניע (נ-ו-ע)
+    note: heni-a G3
+  - english: be frightened
+    hebrew: להיבהל (ב-ה-ל)
+    note: l’hibahel G5
+  - english: spill, be poured out
+    hebrew: להישֿפך (שֿ-פ-ך)
+    note: l’hishafekh G5
+ 
+unit 12 - list 6:
+  - english: cutlery
+    hebrew: סכו''ם
+    note: sakum (m.) (sakin, kaf u’mazleg)
+  - english: hungry
+    hebrew: רעב (ה)
+    note: ra-ev (re-evah, f.)
+  - english: appetite
+    hebrew: תיאבוֿן
+    note: te-avon (m.)
+  - english: joke
+    hebrew: בדיחה
+    note: bdikhah (f.)
+  - english: serve(s)
+    hebrew: מגישֿ (נ-ג-שֿ)
+    note: magish G3
+  - english: taste! (you, m.)
+    hebrew: תטעם (נ-ג-ם)
+    note: tit-am G1
+  - english: what do you mean? (lit. ‘what suddenly?’)
+    hebrew: מה פתאוֿם?
+    note: mah pit-om?
+  - english: fly
+    hebrew: זבוב
+    note: zvuv (m.)
+  - english: for yourself
+    hebrew: בעצמך
+    note: b’atsmekha
+  - english: acceptable, well received
+    hebrew: מקובל
+    note: mekubal (mekubélet, f.)
+  - english: what difference does it make? (lit. ‘what does it change?’)
+    hebrew: מה זה משֿנה?
+    note: mah zeh meshaneh?
+  - english: insist(s)
+    hebrew: מתעקשֿת (ע-ק-שֿ)
+    note: mit-akéshet G4
+  - english: spoon
+    hebrew: כף
+    note: kaf (f.)
+ 
+unit 13 - list 1:
+  - english: owner of
+    hebrew: בעל(ת)
+    note: bá-al(-at, f.)
+  - english: religious
+    hebrew: דתי(ה)
+    note: dati(-ah, f.)
+  - english: closed
+    hebrew: סגור(ה)
+    note: sagur (sgurah, f.)
+  - english: it is customary
+    hebrew: נהוג
+    note: nahug
+  - english: a custom
+    hebrew: מנהג
+    note: minhag (m.)
+  - english: most, the majority
+    hebrew: רב
+    note: rov (m.)
+  - english: rest
+    hebrew: מנוחה
+    note: menukhah (f.)
+  - english: fixed
+    hebrew: קבוע(ה)
+    note: kavú-a (kvu-ah, f.)
+  - english: Muslim
+    hebrew: מוסלמי(ת)
+    note: muslemi(-t, f.)
+  - english: many, lots of
+    hebrew: הרבה
+    note: harbeh
+  - english: believers
+    hebrew: מאמינים
+    note: ma-aminim
+  - english: religion
+    hebrew: דת
+    note: dat (f.)
+  - english: Judaism
+    hebrew: יהדות
+    note: yahadut (f.)
+  - english: Christianity
+    hebrew: נצרות
+    note: natsrut (f.)
+  - english: Islam
+    hebrew: איסלאם
+    note: islam (m.)
+  - english: to notice, to pay attention
+    hebrew: לשים לב
+    note: la’sim lev
+  - english: I noticed
+    hebrew: שמתי לב
+    note: samti lev
+  - english: heart
+    hebrew: לב (לבבות)
+    note: lev (levavot, m./pl.)
+  - english: the clergy
+    hebrew: אנשֿי דת
+    note: anshey dat
+  - english: dressed
+    hebrew: לבושֿ(ים)
+    note: labush / levushim (m./pl.)
+  - english: modestly (lit. ‘with modesty’)
+    hebrew: (ב) צניעות
+    note: (b’)tsni-ut (f.)
+  - english: to what ? 
+    hebrew: למה?
+    note: l’mah?
+  - english: belief 
+    hebrew: אמונה
+    note: emunah (f.)
+  - english: different 
+    hebrew: שֿונה
+    note: shoneh(-ah, f.)
+  - english: holy 
+    hebrew: קדוֿשֿ(ה)
+    note: kadosh (kedoshah, f.)
+  - english: light 
+    hebrew: אוֿר
+    note: or
+  - english: gold
+    hebrew: זהב
+    note: zahav (m.) (also adj.-ah,f.)
+  - english: song / poem
+    hebrew: שֿיר
+    note: shir (m.)
+  - english: copper
+    hebrew: נחוֿשֿת
+    note: nekhóshet (f.)
+ 
+unit 13 - list 2:
+  - english: light, lamp
+    hebrew: מנוֿרה
+    note: menorah (f.)
+  - english: glass
+    hebrew: זכוכית
+    note: zkhukhit (f.)
+  - english: to look after G2
+    hebrew: לטפל ב…
+    note: le’tapel + b’…
+  
+  - english: red
+    hebrew: אדוֿם/אדומה
+    note: adom / adumah
+  - english: green
+    hebrew: ירוֿק/ירוקה
+    note: yarok / yerukah
+  - english: orange
+    hebrew: כתוֿם/כתומה
+    note: katom / ktumah
+  - english: pink
+    hebrew: ורוֿד/ורודה
+    note: varod / vrudah
+  - english: lilac
+    hebrew: סגוֿל/סגולה
+    note: segol / sgulah
+  - english: blue
+    hebrew: כחוֿל/כחולה
+    note: kakhol / k-khulah
+  - english: yellow
+    hebrew: צהוֿב/צהובה
+    note: tsahov /tsehubah
+  - english: white
+    hebrew: לבן/לבנה
+    note: lavan / levanah
+  - english: black
+    hebrew: שֿחור/שֿחוֿרה
+    note: shakhor / shkhorah
+  - english: brown
+    hebrew: חום/חומה
+    note: khum / khumah
+ 
+unit 13 - list 3:
+  - english: jealousy, envy
+    hebrew: קנאה
+    note: kin-ah (f.)
+  - english: sorrow
+    hebrew: צער
+    note: tsá-ar (m.)
+  - english: sadness
+    hebrew: עצב
+    note: étsev (m.)
+  - english: sad
+    hebrew: עצוב(ה)
+    note: atsuv(-ah, f.)
+  - english: happiness
+    hebrew: שמחה
+    note: simkhah (f.)
+  - english: mood
+    hebrew: מצב רוח
+    note: matsav rú-akh (m.)
+  - english: bad
+    hebrew: רע(ה)
+    note: ra (ra-ah, f.)
+  - english: to blush
+    hebrew: להסמיק (ס-מ-ק)
+    note: l’hasmik G3
+
+  - english: album
+    hebrew: אלבוֿם
+    note: albom (m.)
+  - english: built up
+    hebrew: בנוי(ת)
+    note: banuy (bnuyah, f.)
+  - english: situation
+    hebrew: מצב
+    note: matsav (m.)
+  - english: girl
+    hebrew: בחורה
+    note: bakhurah (f.)
+ 
+unit 13 - list 4:
+  - english: look(s) (lit. ‘is seen’, f.)
+    hebrew: נראית
+    note: nir-et G7
+  - english: wandering around
+    hebrew: מסתוֿבבים (ס-ב-ב)
+    note: mistovevim G4
+  - english: is impressed
+    hebrew: מתרשֿם (ר-שֿ-ם)
+    note: mitrashem G4
+  - english: for the better
+    hebrew: לטוֿבה
+    note: l’tovah
+  - english: doubt
+    hebrew: ספק
+    note: safek (m.)
+  - english: are you? (question marker)
+    hebrew: האם
+    note: ha-im
+  - english: prime minister
+    hebrew: ראשֿ ממשֿלה
+    note: rosh memshalah
+  - english: the Middle East
+    hebrew: המזרח התיכוֿן
+    note: ha’mizrakh ha’tikhon
+  - english: I’m fed up
+    hebrew: נשֿבר לי
+    note: nishbar li
+  - english: department (of)
+    hebrew: מחלקה(מחלקת)
+    note: makhlakah / makhléket (f.)
+  - english: will be disappointed
+    hebrew: תתאכזב (כ-ז-ב)
+    note: tit-akhzev G4
+  - english: disappointed
+    hebrew: מאוכזב(ת)
+    note: me-ukhzav (-zévet, f.)
+  - english: appreciate(s)
+    hebrew: מעריך (ע-ר-ך)
+    note: ma-arikh G3
+  - english: satisfied, pleased (with)
+    hebrew: מרוצה (מ…)
+    note: merutseh(-ah, f.) mi’…
+  - english: agree
+    hebrew: מסכים (ס-כ-ם)
+    note: maskim G3
+  - english: to change
+    hebrew: לשֿנוֿת (שֿ-נ-ה)
+    note: l’shanot G2
+ 
+unit 13 - list 5:
+  - english: tower
+    hebrew: מגדל
+    note: migdal (m.)
+  - english: king (queen)
+    hebrew: מלק(כה)
+    note: mélekh (malkah)
+  - english: national
+    hebrew: לאומי(ת)
+    note: le-umi(-t, f.)
+  - english: state, country
+    hebrew: מדינה
+    note: medinah (f.)
+  - english: to sacrifice
+    hebrew: להקריב (ק-ר-ב)
+    note: l’hakriv
+  - english: the Temple
+    hebrew: בית המקדשֿ
+    note: beyt ha’mikdash
+  - english: wall
+    hebrew: קיר
+    note: kir (m.)
+  - english: Holocaust
+    hebrew: שֿוֿאה
+    note: sho-ah (f.)
+  - english: research
+    hebrew: מחקר
+    note: mekhkar (m.)
+  - english: documentation
+    hebrew: תיעוד
+    note: ti-ud (m.)
+  - english: avenue
+    hebrew: שדרה
+    note: sderah (f.)
+  - english: mosque
+    hebrew: מסגד
+    note: misgad (m.)
+  - english: last
+    hebrew: אחרוֿן(ה)
+    note: akharon(-ah, f.)
+  - english: cross
+    hebrew: צלב
+    note: tslav (m.)
+  - english: inside
+    hebrew: בתוֿך
+    note: b’tokh
+  - english: grave
+    hebrew: קבר
+    note: kéver (m.)
+ 
+unit 14 - list 1:
+  - english: dial
+    hebrew: הייג (ח-י-ג)
+    note: khayeg
+  - english: (he) is not (present)
+    hebrew: אינוֿ (אינ + הוא)
+    note: eyno (eyn + hu)
+  - english: connected
+    hebrew: מחובר(ת)
+    note: mekhubar(-et, f.)
+  - english: information
+    hebrew: מוֿדיעין
+    note: modi-in (m.)
+  - english: mistake
+    hebrew: טעות
+    note: ta-ut (f.)
+  - english: prefix / area code
+    hebrew: קידוֿמה
+    note: kidómet (f.)
+  - english: in connection with
+    hebrew: בקשֿר
+    note: b’késher
+  - english: written announcement
+    hebrew: מוֿדעה
+    note: moda-ah (f.)
+  - english: key in (press)
+    hebrew: הקשֿ
+    note: hakesh
+  - english: invoice, bill, account
+    hebrew: חשֿבוֿן
+    note: kheshbon (m.)
+  - english: your wife
+    hebrew: אשֿתך (אשֿה + אתה)
+    note: ishtekha
+  - english: by (lit. ‘by the hands of’)
+    hebrew: על ידי
+    note: al yedey
+ 
+unit 14 - list 2:
+  - english: bride
+    hebrew: כלה
+    note: kalah (f.)
+  - english: happy
+    hebrew: מאושֿר(ת)
+    note: me-ushar (-shéret, f.)
+  - english: operator
+    hebrew: מרכזייה
+    note: merkaziyah (f.)
+  - english: El-Al services
+    hebrew: שֿירותי אל-על
+    note: sherutey el-al
+  - english: take-off time
+    hebrew: מוֿעד המראה
+    note: mo-ed hamra-ah (f.)
+  - english: landing time
+    hebrew: מוֿעד נחיתה
+    note: mo-ed nekhitah (f.)
+  - english: luggage
+    hebrew: מטען
+    note: mit-an (m.)
+  - english: pre-flight services
+    hebrew: שֿירות טרוֿם טיסה
+    note: sherut trom tisah
+
+unit 14 - list 3:
+  - english: the Pope
+    hebrew: האפיפיור
+    note: ha’apifyor
+  - english: Your Holiness (lit. ‘his’/your) Honour
+    hebrew: כבוֿדוֿ
+    note: kvodo
+  - english: impossible
+    hebrew: בלתי אפשֿרי
+    note: bilti efshari
+  - english: licence
+    hebrew: רשֿיוֿן
+    note: rishayon (rishyonot m. pl.)
+  - english: choice
+    hebrew: בררה
+    note: brerah (f.)
+  - english: to arrest
+    hebrew: לעצוֿר (ע-צ-ר)
+    note: la’átsor G1
+  - english: what do you (lit. ‘does that’) mean?
+    hebrew: מה זאת אוֿמרת?
+    note: ma zot oméret?
+  - english: fine, penalty
+    hebrew: קנס
+    note: knas (m.)
+  - english: government minister
+    hebrew: שר
+    note: sar
+  - english: chief of staff (army)
+    hebrew: רמטכ''ל
+    note: ramatkal (rosh ha’mateh ha’klali)
+  - english: president
+    hebrew: נשיא(ה)
+    note: nasi
+  - english: talk(s) nonsense
+    hebrew: מדבר שֿטויוֿת
+    note: medaber shtuyot
+ 
+ 
